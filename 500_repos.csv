@@ -1,0 +1,501 @@
+,full_name,num_stars,num_forks,num_watchers,num_open_issues,topics,main_language,created_at,updated_at,license_key
+0,freeCodeCamp/freeCodeCamp,357821,30534,357821,185,"careers, certification, community, curriculum, d3, education, freecodecamp, hacktoberfest, javascript, learn-to-code, math, nodejs, nonprofits, programming, react, teachers",TypeScript,2014-12-24T17:49:19Z,2022-12-02T09:09:42Z,bsd-3-clause
+1,996icu/996.ICU,264575,21490,264575,16736,,,2019-03-26T07:31:14Z,2022-12-02T09:31:59Z,other
+2,EbookFoundation/free-programming-books,257401,52749,257401,53,"books, education, hacktoberfest, list, resource",,2013-10-11T06:50:37Z,2022-12-02T09:58:23Z,other
+3,jwasham/coding-interview-university,240296,64219,240296,51,"algorithm, algorithms, coding-interview, coding-interviews, computer-science, data-structures, interview, interview-prep, interview-preparation, programming-interviews, software-engineering, study-plan",,2016-06-06T02:34:12Z,2022-12-02T10:03:19Z,cc-by-sa-4.0
+4,sindresorhus/awesome,228350,24561,228350,53,"awesome, awesome-list, lists, resources, unicorns",,2014-07-11T13:42:37Z,2022-12-02T09:50:03Z,cc0-1.0
+5,kamranahmedse/developer-roadmap,220033,31828,220033,238,"angular-roadmap, backend-roadmap, blockchain-roadmap, computer-science, dba-roadmap, developer-roadmap, devops-roadmap, frontend-roadmap, go-roadmap, java-roadmap, javascript-roadmap, nodejs-roadmap, python-roadmap, qa-roadmap, react-roadmap, roadmap, software-architect-roadmap, vue-roadmap",TypeScript,2017-03-15T13:45:52Z,2022-12-02T10:03:16Z,other
+6,public-apis/public-apis,218700,25013,218700,85,"api, apis, dataset, development, free, list, lists, open-source, public, public-api, public-apis, resources, software",Python,2016-03-20T23:49:42Z,2022-12-02T09:36:01Z,mit
+7,donnemartin/system-design-primer,204600,36819,204600,338,"design, design-patterns, design-system, development, interview, interview-practice, interview-questions, programming, python, system, web, web-application, webapp",Python,2017-02-26T16:15:28Z,2022-12-02T10:04:46Z,other
+8,vuejs/vue,201027,33114,201027,592,"framework, frontend, javascript, vue",TypeScript,2013-07-29T03:24:51Z,2022-12-02T10:00:35Z,mit
+9,facebook/react,198533,41223,198533,1109,"declarative, frontend, javascript, library, react, ui",JavaScript,2013-05-24T16:15:54Z,2022-12-02T09:56:54Z,mit
+10,codecrafters-io/build-your-own-x,176706,16866,176706,268,"awesome-list, free, programming, tutorial-code, tutorial-exercises, tutorials",,2018-05-09T12:03:18Z,2022-12-02T10:05:03Z,
+11,tensorflow/tensorflow,169452,87510,169452,2379,"deep-learning, deep-neural-networks, distributed, machine-learning, ml, neural-network, python, tensorflow",C++,2015-11-07T01:19:20Z,2022-12-02T10:01:01Z,apache-2.0
+12,getify/You-Dont-Know-JS,161795,31628,161795,129,"async, book, book-series, closures, education, es2015, es6, javascript, learn-to-code, programming, prototypes, training-materials, training-providers",,2013-11-16T02:37:24Z,2022-12-02T10:01:54Z,other
+13,twbs/bootstrap,160644,77592,160644,365,"bootstrap, css, css-framework, html, javascript, sass, scss",JavaScript,2011-07-29T21:19:00Z,2022-12-02T09:43:48Z,mit
+14,CyC2018/CS-Notes,159358,49487,159358,176,"algorithm, computer-science, cpp, interview, java, leetcode, python, system-design",,2018-02-13T14:56:24Z,2022-12-02T09:32:15Z,
+15,trekhleb/javascript-algorithms,156004,25968,156004,277,"algorithm, algorithms, computer-science, data-structures, interview, interview-preparation, javascript, javascript-algorithms",JavaScript,2018-03-24T07:47:04Z,2022-12-02T09:31:12Z,mit
+16,ohmyzsh/ohmyzsh,152852,24801,152852,697,"cli, cli-app, hacktoberfest, oh-my-zsh, oh-my-zsh-plugin, oh-my-zsh-theme, ohmyzsh, plugin-framework, plugins, productivity, shell, terminal, theme, themes, zsh, zsh-configuration",Shell,2009-08-28T18:15:37Z,2022-12-02T09:27:05Z,mit
+17,TheAlgorithms/Python,149494,38390,149494,111,"algorithm, algorithm-competitions, algorithms-implemented, algos, community-driven, education, hacktoberfest, interview, learn, practice, python, searches, sorting-algorithms, sorts",Python,2016-07-16T09:44:01Z,2022-12-02T09:59:33Z,mit
+18,vinta/awesome-python,148543,22235,148543,307,"awesome, collections, python, python-framework, python-library, python-resources",Python,2014-06-27T21:00:06Z,2022-12-02T08:47:48Z,other
+19,flutter/flutter,146827,23889,146827,11324,"android, app-framework, cross-platform, dart, dart-platform, desktop, flutter, flutter-package, fuchsia, ios, linux-desktop, macos, material-design, mobile, mobile-development, skia, web, web-framework, windows",Dart,2015-03-06T22:54:58Z,2022-12-02T10:02:34Z,bsd-3-clause
+20,torvalds/linux,142078,45702,142078,315,,C,2011-09-04T22:48:12Z,2022-12-02T10:01:46Z,other
+21,github/gitignore,141375,80363,141375,351,"git, gitignore",,2010-11-08T20:17:14Z,2022-12-02T09:39:17Z,cc0-1.0
+22,microsoft/vscode,139691,24129,139691,8258,"editor, electron, hacktoberfest, microsoft, typescript, visual-studio-code",TypeScript,2015-09-03T20:23:38Z,2022-12-02T09:16:26Z,mit
+23,airbnb/javascript,129334,24630,129334,149,"arrow-functions, es2015, es2016, es2017, es2018, es6, eslint, javascript, linting, naming-conventions, style-guide, style-linter, styleguide, tc39",JavaScript,2012-11-01T23:13:50Z,2022-12-02T09:28:02Z,mit
+24,Snailclimb/JavaGuide,129097,42945,129097,65,"algorithms, interview, java, jvm, mysql, redis, spring, system, system-design, zookeeper",Java,2018-05-07T13:27:00Z,2022-12-02T09:47:38Z,
+25,ossu/computer-science,128761,17037,128761,19,"awesome-list, computer-science, courses, curriculum",,2014-05-04T00:18:39Z,2022-12-02T09:35:14Z,mit
+26,jackfrued/Python-100-Days,128145,47565,128145,669,,Python,2018-03-01T16:05:52Z,2022-12-02T09:34:55Z,
+27,jlevy/the-art-of-command-line,121115,12391,121115,201,"bash, documentation, linux, macos, unix, windows",,2015-05-20T15:11:03Z,2022-12-02T10:00:32Z,
+28,ytdl-org/youtube-dl,115308,8394,115308,4779,,Python,2010-10-31T14:35:07Z,2022-12-02T09:09:31Z,unlicense
+29,labuladong/fucking-algorithm,112325,21864,112325,89,"algorithms, computer-science, data-structures, dynamic-programming, dynamic-programming-algorithm, interview-questions, kmp, leetcode",Markdown,2020-02-19T09:01:23Z,2022-12-02T09:59:58Z,
+30,awesome-selfhosted/awesome-selfhosted,110221,6680,110221,86,"awesome, awesome-list, cloud, hosting, privacy, self-hosted, selfhosted",JavaScript,2015-06-01T02:33:17Z,2022-12-02T09:46:08Z,other
+31,facebook/react-native,106289,22658,106289,2283,,JavaScript,2015-01-09T18:10:16Z,2022-12-02T10:02:41Z,mit
+32,golang/go,106259,15661,106259,7979,"go, golang, language, programming-language",Go,2014-08-19T04:33:40Z,2022-12-02T10:00:54Z,bsd-3-clause
+33,30-seconds/30-seconds-of-code,105268,10955,105268,0,"awesome-list, education, es6-javascript, javascript, learn-to-code, learning-resources, nodejs, programming, snippets, snippets-collection",JavaScript,2017-11-29T17:35:03Z,2022-12-02T09:45:47Z,cc-by-4.0
+34,electron/electron,104736,14078,104736,1022,"c-plus-plus, chrome, css, electron, html, javascript, nodejs, v8, works-with-codespaces",C++,2013-04-12T01:47:36Z,2022-12-02T09:51:38Z,mit
+35,d3/d3,103578,23221,103578,3,"chart, charts, data-visualization, svg, visualization",JavaScript,2010-09-27T17:22:42Z,2022-12-02T09:45:38Z,isc
+36,facebook/create-react-app,98126,25622,98126,1858,"build-tools, react, zero-configuration",JavaScript,2016-07-17T14:55:11Z,2022-12-02T09:36:32Z,mit
+37,axios/axios,97568,10029,97568,296,"hacktoberfest, http-client, javascript, nodejs, promise",JavaScript,2014-08-18T22:30:27Z,2022-12-02T09:47:23Z,mit
+38,justjavac/free-programming-books-zh_CN,97496,26827,97496,24,"android, angular, books, free, ios, javascript, kotlin, pdf, programming, python, react, react-native, swift, vue",,2013-11-04T01:59:19Z,2022-12-02T09:33:13Z,gpl-3.0
+39,vercel/next.js,97180,21429,97180,1536,"blog, browser, compiler, components, hybrid, nextjs, node, react, server-rendering, ssg, static, static-site-generator, universal, vercel",JavaScript,2016-10-05T23:32:51Z,2022-12-02T09:47:27Z,mit
+40,kubernetes/kubernetes,94167,34548,94167,2539,"cncf, containers, go, kubernetes",Go,2014-06-06T22:56:04Z,2022-12-02T10:01:27Z,apache-2.0
+41,avelino/awesome-go,92089,10544,92089,91,"awesome, awesome-list, go, golang, golang-library, hacktoberfest",Go,2014-07-06T13:42:15Z,2022-12-02T09:59:48Z,mit
+42,nodejs/node,91866,24848,91866,1687,"javascript, js, linux, macos, mit, node, nodejs, runtime, windows",JavaScript,2014-11-26T19:57:11Z,2022-12-02T09:41:43Z,other
+43,mrdoob/three.js,87239,33453,87239,493,"3d, augmented-reality, canvas, html5, javascript, svg, virtual-reality, webaudio, webgl, webgl2, webgpu, webxr",JavaScript,2010-03-23T18:58:01Z,2022-12-02T09:41:03Z,mit
+44,denoland/deno,86636,4661,86636,1093,"deno, javascript, rust, typescript",Rust,2018-05-15T01:34:26Z,2022-12-02T09:52:05Z,mit
+45,microsoft/TypeScript,86568,11223,86568,5936,"javascript, language, typechecker, typescript",TypeScript,2014-06-17T15:28:39Z,2022-12-02T10:00:50Z,apache-2.0
+46,microsoft/terminal,86263,7582,86263,1565,"cmd, command-line, console, terminal, windows-console, windows-terminal, wsl",C++,2017-08-11T18:38:22Z,2022-12-02T09:31:16Z,mit
+47,angular/angular,85247,22615,85247,1315,"angular, javascript, pwa, typescript, web, web-framework, web-performance",TypeScript,2014-09-18T16:12:01Z,2022-12-02T09:40:50Z,mit
+48,trimstray/the-book-of-secret-knowledge,83733,6659,83733,28,"awesome, awesome-list, bsd, cheatsheets, devops, guidelines, hacking, hacks, howtos, linux, lists, manuals, one-liners, pentesters, resources, search-engines, security, security-researchers, sysops",,2018-06-23T10:43:14Z,2022-12-02T09:31:29Z,mit
+49,goldbergyoni/nodebestpractices,83726,8646,83726,35,"best-practices, es6, eslint, express, expressjs, javascript, jest, microservices, mocha, node-js, nodejs, nodejs-development, npm, rest, style-guide, styleguide, testing, types",JavaScript,2017-09-15T08:33:19Z,2022-12-02T09:55:00Z,cc-by-sa-4.0
+50,ant-design/ant-design,83125,37054,83125,966,"ant-design, antd, design-systems, react, typescript, ui-kit, ui-library",TypeScript,2015-04-24T15:37:24Z,2022-12-02T10:03:31Z,mit
+51,yangshun/tech-interview-handbook,82948,10966,82948,19,"algorithm, algorithm-interview, algorithm-interview-questions, algorithms, behavioral-interviews, coding-interviews, interview-practice, interview-preparation, interview-questions, system-design",TypeScript,2016-07-05T05:00:48Z,2022-12-02T08:50:29Z,mit
+52,practical-tutorials/project-based-learning,82935,11859,82935,27,"beginner-project, cpp, golang, javascript, project, python, tutorial, webdevelopment",,2017-04-12T05:07:46Z,2022-12-02T09:30:28Z,mit
+53,mui/material-ui,82930,28591,82930,1301,"design-systems, hacktoberfest, javascript, material-design, react, react-components, typescript",JavaScript,2014-08-18T19:11:54Z,2022-12-02T08:29:48Z,mit
+54,microsoft/PowerToys,82699,4726,82699,3891,"color-picker, desktop, fancyzones, keyboard-manager, microsoft-powertoys, powerrename, powertoys, windows",C#,2019-05-01T17:44:02Z,2022-12-02T09:45:38Z,mit
+55,puppeteer/puppeteer,81054,8735,81054,282,"automation, chrome, chromium, developer-tools, headless-chrome, node-module, testing, web",TypeScript,2017-05-09T22:16:13Z,2022-12-02T09:29:35Z,apache-2.0
+56,PanJiaChen/vue-element-admin,79746,28981,79746,1256,"admin, admin-dashboard, admin-template, axios, dashboard, desktop, element, element-ui, i18n, management-system, mock, tinymce, vue, vue-admin, vue-cli, vuex, webpack, webpack4, xlsx",Vue,2017-04-17T03:35:49Z,2022-12-02T07:10:09Z,mit
+57,iluwatar/java-design-patterns,78574,24332,78574,245,"awesome-list, design-patterns, hacktoberfest, java, principles, snippets, snippets-collection, snippets-library",Java,2014-08-09T16:45:18Z,2022-12-02T09:59:27Z,other
+58,animate-css/animate.css,76431,16318,76431,43,"animation, css, css-animations, stylesheets",CSS,2011-10-12T10:07:38Z,2022-12-02T09:54:17Z,other
+59,ryanmcdermott/clean-code-javascript,76027,10257,76027,69,"best-practices, clean-architecture, clean-code, composition, inheritance, javascript, principles",JavaScript,2016-11-25T22:25:41Z,2022-12-02T09:21:19Z,mit
+60,storybookjs/storybook,75316,7959,75316,2203,"angular, components, design-systems, documentation, ember, html, javascript, react, react-native, storybook, styleguide, svelte, testing, typescript, ui, ui-components, vue, web-components, webpack",TypeScript,2016-03-18T04:23:44Z,2022-12-02T08:47:30Z,mit
+61,huggingface/transformers,75219,17101,75219,575,"bert, deep-learning, flax, hacktoberfest, jax, language-model, language-models, machine-learning, model-hub, natural-language-processing, nlp, nlp-library, pretrained-models, python, pytorch, pytorch-transformers, seq2seq, speech-recognition, tensorflow, transformer",Python,2018-10-29T13:56:00Z,2022-12-02T09:58:36Z,apache-2.0
+62,rust-lang/rust,75072,10087,75072,9350,"compiler, hacktoberfest, language, rust",Rust,2010-06-16T20:39:03Z,2022-12-02T10:01:32Z,other
+63,tensorflow/models,74785,46099,74785,1248,,Python,2016-02-05T01:15:20Z,2022-12-02T06:25:51Z,other
+64,nvbn/thefuck,74709,3299,74709,268,"python, shell",Python,2015-04-08T15:08:04Z,2022-12-02T07:27:48Z,mit
+65,Genymobile/scrcpy,73673,7837,73673,1180,"android, c, ffmpeg, libav, mirroring, recording, screen, sdl2",C,2017-11-21T18:00:27Z,2022-12-02T08:34:40Z,apache-2.0
+66,MisterBooo/LeetCodeAnimation,71977,13769,71977,16,"animation, leetcode, leetcode-c, leetcode-java, leetcode-solutions",Java,2018-12-06T08:01:22Z,2022-12-02T09:06:53Z,
+67,laravel/laravel,71620,23161,71620,32,"framework, laravel, php",PHP,2011-06-08T03:06:08Z,2022-12-02T10:01:41Z,
+68,FortAwesome/Font-Awesome,70536,12237,70536,5294,"css, font, fontawesome, icons, svg-icons, svg-sprites, webfont",JavaScript,2012-02-17T14:19:43Z,2022-12-02T09:47:22Z,other
+69,gothinkster/realworld,70520,6604,70520,58,,Shell,2016-02-26T20:49:53Z,2022-12-02T08:24:14Z,mit
+70,doocs/advanced-java,67787,17918,67787,5,"advanced-java, distributed-search-engine, distributed-systems, doocs, dubbo, elasticsearch, eureka, feign, high-availability, high-concurrency, hystrix, java, message-queue, microservices-architecture, redis, ribbon, rpc, spring-cloud, springcloud-config, zookeeper",Java,2018-10-06T11:38:30Z,2022-12-02T09:31:57Z,cc-by-sa-4.0
+71,tonsky/FiraCode,67559,2919,67559,346,"font, ligatures, programming-ligatures",Clojure,2014-11-11T19:32:38Z,2022-12-02T08:44:14Z,ofl-1.1
+72,django/django,67550,28270,67550,175,"apps, django, framework, models, orm, python, templates, views, web",Python,2012-04-28T02:47:18Z,2022-12-02T09:00:53Z,bsd-3-clause
+73,bitcoin/bitcoin,67221,33341,67221,809,"bitcoin, c-plus-plus, cryptocurrency, cryptography, p2p",C++,2010-12-19T15:16:43Z,2022-12-02T10:00:40Z,mit
+74,vuejs/awesome-vue,67109,9193,67109,43,,,2015-10-20T00:16:14Z,2022-12-02T09:07:47Z,mit
+75,papers-we-love/papers-we-love,66067,4978,66067,11,"awesome, computer-science, meetup, papers, programming, read-papers, theory",Shell,2013-12-15T14:31:41Z,2022-12-02T07:43:11Z,
+76,mtdvio/every-programmer-should-know,65317,6190,65317,44,"cc-by, collection, computer-science, educational, novice",,2017-08-24T13:18:26Z,2022-12-02T09:50:16Z,cc-by-4.0
+77,opencv/opencv,65150,53143,65150,2385,"c-plus-plus, computer-vision, deep-learning, image-processing, opencv",C++,2012-07-19T09:40:17Z,2022-12-02T10:03:17Z,apache-2.0
+78,gin-gonic/gin,64787,7107,64787,625,"framework, gin, go, middleware, performance, router, server",Go,2014-06-16T23:57:25Z,2022-12-02T09:48:18Z,mit
+79,moby/moby,64637,18382,64637,4413,"containers, docker, go",Go,2013-01-18T18:10:57Z,2022-12-02T09:16:02Z,apache-2.0
+80,typicode/json-server,64472,6366,64472,650,,JavaScript,2013-11-27T13:21:13Z,2022-12-02T08:50:23Z,mit
+81,spring-projects/spring-boot,64438,37600,64438,551,"framework, java, spring, spring-boot",Java,2012-10-19T15:02:57Z,2022-12-02T08:03:15Z,apache-2.0
+82,gohugoio/hugo,63988,6908,63988,680,"blog-engine, cms, content-management-system, documentation-tool, go, hacktoberfest, hugo, static-site-generator",Go,2013-07-04T15:26:26Z,2022-12-02T09:55:27Z,apache-2.0
+83,sveltejs/svelte,63503,3107,63503,844,"compiler, template, ui",TypeScript,2016-11-20T18:13:05Z,2022-12-02T09:52:15Z,mit
+84,ripienaar/free-for-dev,63049,6892,63049,11,"awesome-list, free-for-developers",HTML,2015-03-18T21:06:26Z,2022-12-02T09:44:01Z,
+85,thedaviddias/Front-End-Checklist,63001,6085,63001,12,"checklist, css, front-end-developer-tool, front-end-development, frontend, guidelines, html, javascript, lists, reference, resources, web-development",,2017-10-16T10:12:36Z,2022-12-02T09:51:45Z,cc0-1.0
+86,nvm-sh/nvm,62950,6666,62950,369,"bash, install, lts, node, node-js, nodejs, nvm, nvmrc, posix, posix-compliant, shell, version-manager, zsh",Shell,2010-04-15T17:47:47Z,2022-12-02T08:27:29Z,mit
+87,tailwindlabs/tailwindcss,62778,3204,62778,9,"css, css-framework, functional-css, postcss, responsive, tailwindcss, utility-classes",JavaScript,2017-10-06T14:59:14Z,2022-12-02T09:51:49Z,mit
+88,hakimel/reveal.js,62629,16422,62629,724,"presentations, slides, slideshow",JavaScript,2011-06-07T18:54:22Z,2022-12-02T08:23:17Z,mit
+89,macrozheng/mall,62483,25966,62483,32,"docker, elasticsearch, elk, java, mongodb, mybatis, mysql, rabbitmq, redis, spring, spring-boot, spring-cloud, spring-security, springboot, springcloud, swagger-ui",Java,2018-04-04T01:11:44Z,2022-12-02T09:58:25Z,apache-2.0
+90,fatedier/frp,62388,10905,62388,103,"expose, firewall, frp, go, http-proxy, nat, proxy, reverse-proxy, tunnel",Go,2015-12-21T15:24:59Z,2022-12-02T10:02:34Z,apache-2.0
+91,webpack/webpack,62145,8566,62145,345,"amd, build-tool, commonjs, compiler, es2015, es6, esm, javascript, javascript-compiler, javascript-modules, loaders, module-bundler, plugins, web, web-performance, webpack",JavaScript,2012-03-10T10:08:14Z,2022-12-02T08:23:59Z,mit
+92,elastic/elasticsearch,62039,22492,62039,3987,"elasticsearch, java, search-engine",Java,2010-02-08T13:20:56Z,2022-12-02T09:31:28Z,other
+93,521xueweihan/HelloGitHub,61954,8346,61954,60,"awesome, github, hellogithub, python",Python,2016-05-04T06:24:11Z,2022-12-02T09:56:59Z,
+94,netdata/netdata,61328,5407,61328,270,"alerting, analytics, cncf, containers, dashboard, devops, docker, grafana, graphing, graphite, influxdb, iot, kubernetes, monitoring, netdata, notifications, observability, prometheus, statsd, time-series",C,2013-06-17T18:39:10Z,2022-12-02T08:44:03Z,gpl-3.0
+95,apple/swift,61256,9846,61256,6229,,C++,2015-10-23T21:15:07Z,2022-12-02T09:31:41Z,apache-2.0
+96,pallets/flask,61226,15347,61226,10,"flask, jinja, pallets, python, web-framework, werkzeug, wsgi",Python,2010-04-06T11:11:59Z,2022-12-02T07:35:17Z,bsd-3-clause
+97,microsoft/Web-Dev-For-Beginners,60788,9478,60788,186,"css, curriculum, education, hacktoberfest, html, javascript, learning",JavaScript,2020-11-10T02:44:00Z,2022-12-02T09:51:53Z,mit
+98,pytorch/pytorch,60676,16901,60676,10630,"autograd, deep-learning, gpu, machine-learning, neural-network, numpy, python, tensor",C++,2016-08-13T05:26:41Z,2022-12-02T09:58:48Z,other
+99,florinpop17/app-ideas,60307,8032,60307,373,"applications, coding, hacktoberfest, ideas",,2019-02-25T18:36:56Z,2022-12-02T09:26:08Z,mit
+100,neovim/neovim,60085,4175,60085,1628,"api, c, lua, neovim, nvim, text-editor, vim",Vim Script,2014-01-31T13:39:22Z,2022-12-02T10:01:29Z,other
+101,angular/angular.js,59343,28199,59343,468,,JavaScript,2010-01-06T00:34:37Z,2022-11-30T21:48:34Z,mit
+102,expressjs/express,59087,10021,59087,167,"express, javascript, nodejs, server",JavaScript,2009-06-26T18:56:01Z,2022-12-02T09:43:01Z,mit
+103,reduxjs/redux,58944,15344,58944,58,redux,TypeScript,2015-05-29T23:53:15Z,2022-12-02T02:03:37Z,mit
+104,chartjs/Chart.js,58893,11682,58893,183,"canvas, chart, graph, hacktoberfest, html5, html5-charts, javascript",JavaScript,2013-03-17T23:56:36Z,2022-12-02T08:41:59Z,mit
+105,resume/resume.github.com,58838,1374,58838,59,,JavaScript,2011-02-06T13:39:55Z,2022-12-02T09:45:27Z,
+106,atom/atom,58755,18167,58755,988,"atom, editor, electron, javascript, linux, macos, windows",JavaScript,2012-01-20T18:18:21Z,2022-12-02T07:14:35Z,mit
+107,Hack-with-Github/Awesome-Hacking,58754,8236,58754,22,"android, awesome, bug-bounty, fuzzing, hacking, penetration-testing, pentesting-windows, reverse-engineering, security",,2016-03-30T15:47:10Z,2022-12-02T09:31:36Z,cc0-1.0
+108,kdn251/interviews,58729,12416,58729,108,"algorithm, algorithm-challenges, algorithm-competitions, algorithms, coding-challenge, coding-challenges, coding-interview, coding-interviews, interview, interview-practice, interview-prep, interview-preparation, interview-questions, interviews, java, leetcode, leetcode-java, leetcode-questions, leetcode-solutions, technical-coding-interview",Java,2017-02-14T18:19:25Z,2022-12-02T09:33:14Z,mit
+109,iptv-org/iptv,58686,10122,58686,910,"iptv, m3u, playlist, streams, tv",JavaScript,2018-11-14T22:00:57Z,2022-12-02T10:03:29Z,unlicense
+110,coder/code-server,57873,4833,57873,218,"browser-ide, dev-tools, development-environment, ide, remote-work, vscode, vscode-remote",TypeScript,2019-02-27T16:50:41Z,2022-12-02T09:40:29Z,mit
+111,redis/redis,57775,22014,57775,2221,,C,2009-03-21T22:32:25Z,2022-12-02T09:05:01Z,bsd-3-clause
+112,adam-p/markdown-here,57407,11194,57407,319,,JavaScript,2012-05-13T03:27:22Z,2022-12-02T08:37:43Z,mit
+113,xingshaocheng/architect-awesome,57289,17563,57289,62,,,2018-04-06T13:30:58Z,2022-12-02T07:39:06Z,
+114,protocolbuffers/protobuf,57275,14605,57275,696,"marshalling, protobuf, protobuf-runtime, protoc, protocol-buffers, protocol-compiler, rpc, serialization",C++,2014-08-26T15:52:15Z,2022-12-02T07:42:48Z,other
+115,socketio/socket.io,57188,10110,57188,96,"javascript, nodejs, socket-io, websocket",TypeScript,2010-03-11T18:24:48Z,2022-12-02T08:35:05Z,mit
+116,jquery/jquery,57000,20657,57000,94,jquery,JavaScript,2009-04-03T15:20:14Z,2022-12-02T09:39:25Z,mit
+117,josephmisiti/awesome-machine-learning,56869,13695,56869,1,,Python,2014-07-15T19:11:19Z,2022-12-02T08:59:05Z,cc0-1.0
+118,keras-team/keras,56766,19218,56766,348,"data-science, deep-learning, machine-learning, neural-networks, python, tensorflow",Python,2015-03-28T00:35:42Z,2022-12-02T09:29:09Z,apache-2.0
+119,home-assistant/core,56386,20734,56386,2146,"asyncio, hacktoberfest, home-automation, internet-of-things, iot, mqtt, python, raspberry-pi",Python,2013-09-17T07:29:48Z,2022-12-02T09:45:40Z,apache-2.0
+120,h5bp/Front-end-Developer-Interview-Questions,55883,10713,55883,9,"css-questions, front-end, html-questions, interview-questions, interview-test, js-questions",Nunjucks,2012-02-09T23:34:10Z,2022-12-02T09:37:57Z,mit
+121,jaywcjlove/awesome-mac,55691,5619,55691,123,"apple, awesome, awesome-list, awesome-lists, list, mac, mac-osx, macos, macosx, software",JavaScript,2016-07-17T15:33:47Z,2022-12-02T09:59:07Z,cc0-1.0
+122,godotengine/godot,55650,9705,55650,8672,"game-development, game-engine, gamedev, godot, godotengine, hacktoberfest, multi-platform, open-source",C++,2014-01-04T16:05:36Z,2022-12-02T10:01:43Z,mit
+123,ansible/ansible,55624,22725,55624,958,"ansible, hacktoberfest, python",Python,2012-03-06T14:58:02Z,2022-12-02T07:09:35Z,gpl-3.0
+124,shadowsocks/shadowsocks-windows,55499,16343,55499,117,"c-sharp, proxy, shadowsocks",C#,2013-01-14T07:54:16Z,2022-12-02T09:37:36Z,other
+125,lodash/lodash,55060,6731,55060,462,"javascript, lodash, modules, utilities",JavaScript,2012-04-07T04:11:46Z,2022-12-02T10:02:05Z,other
+126,tauri-apps/tauri,54671,1426,54671,294,"hacktoberfest, high-performance, rust, webview, works-with-clojurescript, works-with-construct, works-with-elm, works-with-flutter, works-with-gatsby, works-with-mint, works-with-phaser, works-with-quasar, works-with-react, works-with-reason, works-with-svelte, works-with-vue, works-with-yew",Rust,2019-07-13T09:09:37Z,2022-12-02T10:02:02Z,apache-2.0
+127,kelseyhightower/nocode,54556,4606,54556,4253,,Dockerfile,2018-02-06T23:54:00Z,2022-12-02T09:21:48Z,apache-2.0
+128,chrislgarry/Apollo-11,53950,6827,53950,136,"agc, apollo, hacktoberfest, nasa",Assembly,2014-04-03T15:45:02Z,2022-12-02T09:13:45Z,other
+129,gatsbyjs/gatsby,53875,10492,53875,134,"blog, compiler, gatsby, graphql, react, static-site-generator, web-app",JavaScript,2015-05-21T22:43:05Z,2022-12-02T07:25:32Z,mit
+130,h5bp/html5-boilerplate,53668,12131,53668,14,"best-practices, css, html, html5, html5-boilerplate, javascript, robust",JavaScript,2010-01-24T18:03:24Z,2022-12-02T07:30:53Z,mit
+131,apache/echarts,53532,19278,53532,2235,"apache, canvas, charting-library, charts, data-visualization, data-viz, echarts, svg, visualization",TypeScript,2013-04-03T03:18:59Z,2022-12-02T09:48:52Z,apache-2.0
+132,leonardomso/33-js-concepts,53355,7434,53355,87,"angular, concepts, es6, es6-javascript, hacktoberfest, javascript, javascript-closures, javascript-engines, javascript-programming, nodejs, primitive-types, programming, react",JavaScript,2018-09-04T13:27:04Z,2022-12-02T09:36:29Z,mit
+133,ElemeFE/element,52890,14345,52890,2376,"components, element-ui, javascript, ui-kit, vue, vue-components, vuejs",Vue,2016-09-03T06:19:26Z,2022-12-02T09:45:01Z,mit
+134,grafana/grafana,52742,10304,52742,2858,"alerting, analytics, business-intelligence, dashboard, data-visualization, elasticsearch, go, grafana, hacktoberfest, influxdb, metrics, monitoring, mysql, postgres, prometheus",TypeScript,2013-12-11T15:59:56Z,2022-12-02T10:04:55Z,agpl-3.0
+135,nestjs/nest,52561,6238,52561,97,"framework, hacktoberfest, javascript, javascript-framework, microservices, nest, nestjs, node, nodejs, nodejs-framework, typescript, typescript-framework, websockets",TypeScript,2017-02-04T20:12:52Z,2022-12-02T10:01:15Z,mit
+136,enaqx/awesome-react,52537,6404,52537,154,"awesome-list, js, react, react-apps, react-native, react-tutorial, samples, tutorial",,2014-08-06T05:31:44Z,2022-12-02T08:27:53Z,
+137,scikit-learn/scikit-learn,52215,23743,52215,2138,"data-analysis, data-science, machine-learning, python, statistics",Python,2010-08-17T09:43:38Z,2022-12-02T08:50:42Z,bsd-3-clause
+138,tiangolo/fastapi,52105,4264,52105,1352,"api, async, asyncio, fastapi, framework, json, json-schema, openapi, openapi3, pydantic, python, python-types, python3, redoc, rest, starlette, swagger, swagger-ui, uvicorn, web",Python,2018-12-08T08:21:47Z,2022-12-02T09:59:42Z,mit
+139,awesomedata/awesome-public-datasets,52077,9053,52077,121,"aaron-swartz, awesome-public-datasets, datasets, opendata",,2014-11-20T06:20:50Z,2022-12-02T09:20:09Z,mit
+140,rails/rails,51866,20786,51866,681,"activejob, activerecord, framework, html, mvc, rails, ruby",Ruby,2008-04-11T02:19:47Z,2022-12-02T08:59:10Z,mit
+141,mermaid-js/mermaid,51836,4018,51836,861,"documentation, flowchart, hacktoberfest, hacktoberfest2022, javascript, typescript, uml-diagrams",JavaScript,2014-11-01T23:52:32Z,2022-12-02T09:31:27Z,mit
+142,GrowingGit/GitHub-Chinese-Top-Charts,51740,7471,51740,100,,Java,2019-09-05T03:01:56Z,2022-12-02T08:06:03Z,other
+143,DopplerHQ/awesome-interview-questions,51736,7346,51736,15,"android-interview-questions, angularjs-interview-questions, awesome, awesome-list, awesomeness, interview-practice, interview-questions, interviewing, javascript, javascript-interview-questions, list, python-interview-questions, rails-interview, ruby",,2015-11-28T09:48:17Z,2022-12-02T08:40:03Z,
+144,strapi/strapi,50291,6103,50291,450,"api, cms, cms-framework, content-management, content-management-system, customizable, dashboard, graphql, hacktoberfest, hacktoberfest2022, headless-cms, jamstack, javascript, koa, koa2, mysql, nodejs, rest, strapi",JavaScript,2015-09-30T15:34:48Z,2022-12-02T09:57:42Z,other
+145,Semantic-Org/Semantic-UI,50281,5094,50281,1063,"button, css-framework, dropdown, flexbox, popup, semantic, sidebar, tooltip, ui, ui-components",JavaScript,2013-04-08T23:32:04Z,2022-12-01T18:49:11Z,mit
+146,lydiahallie/javascript-questions,50136,7072,50136,84,,,2019-06-12T08:26:27Z,2022-12-02T09:33:39Z,mit
+147,vitejs/vite,50005,4309,50005,664,"build-tool, dev-server, frontend, hmr, vite",TypeScript,2020-04-21T05:03:57Z,2022-12-02T09:31:47Z,mit
+148,spring-projects/spring-framework,49996,35121,49996,1440,"framework, spring, spring-framework",Java,2010-12-08T04:04:45Z,2022-12-02T09:07:04Z,apache-2.0
+149,azl397985856/leetcode,49950,9225,49950,5,"algo, algorithm, algorithms, algorithms-datastructures, computer-science, cpp, data-structures, interview, java, javascript, leetcode, leetcode-solutions, python, tree",JavaScript,2018-03-30T09:13:51Z,2022-12-02T09:21:22Z,other
+150,apache/superset,49473,9860,49473,1516,"analytics, apache, apache-superset, asf, bi, business-analytics, business-intelligence, data-analysis, data-analytics, data-engineering, data-science, data-visualization, data-viz, flask, python, react, sql-editor, superset",TypeScript,2015-07-21T18:55:34Z,2022-12-02T09:25:04Z,apache-2.0
+151,scutan90/DeepLearning-500-questions,49443,15382,49443,104,,JavaScript,2018-06-27T06:36:45Z,2022-12-02T09:52:28Z,gpl-3.0
+152,sdmg15/Best-websites-a-programmer-should-visit,49270,6586,49270,826,"books, cs, hacktoberfest, links, programmer, sites",,2017-03-05T20:25:17Z,2022-12-02T10:03:48Z,mit
+153,python/cpython,49249,25092,49249,8103,,Python,2017-02-10T19:23:51Z,2022-12-02T10:03:45Z,other
+154,necolas/normalize.css,49199,10931,49199,74,"css, css-reset, normalize-css",CSS,2011-05-04T10:20:25Z,2022-12-02T09:51:58Z,mit
+155,TheAlgorithms/Java,49156,16270,49156,167,"algorithm, algorithm-challenges, algorithms, algorithms-datastructures, data-structures, hacktoberfest, java, search, sort, sorting-algorithms",Java,2016-07-16T10:21:02Z,2022-12-02T09:59:49Z,mit
+156,remix-run/react-router,48938,9644,48938,118,,TypeScript,2014-05-16T22:22:51Z,2022-12-02T07:49:15Z,mit
+157,Anduin2017/HowToCook,48698,7277,48698,344,"chinese, cookbook, cooking, dishes, recipes",Shell,2020-02-29T10:43:49Z,2022-12-02T08:55:57Z,unlicense
+158,psf/requests,48624,8917,48624,261,"client, cookies, forhumans, http, humans, python, python-requests, requests",Python,2011-02-13T18:38:17Z,2022-12-02T08:22:25Z,apache-2.0
+159,hoppscotch/hoppscotch,48606,3320,48606,93,"api, api-client, api-rest, api-testing, developer-tools, graphql, hacktoberfest, http, http-client, pwa, rest, rest-api, spa, testing, testing-tools, tools, vue, vuejs, websocket",Vue,2019-08-21T13:15:24Z,2022-12-02T08:37:12Z,mit
+160,anuraghazra/github-readme-stats,48515,12304,48515,257,"dynamic, hacktoberfest, profile-readme, readme-generator, readme-stats, serverless",JavaScript,2020-07-09T10:34:22Z,2022-12-02T09:40:57Z,mit
+161,junegunn/fzf,48473,2067,48473,310,"bash, cli, fish, fzf, go, neovim, tmux, unix, vim, zsh",Go,2013-10-23T16:04:23Z,2022-12-02T09:06:16Z,mit
+162,3b1b/manim,48451,5146,48451,361,"3b1b-videos, animation, explanatory-math-videos, python",Python,2015-03-22T18:50:58Z,2022-12-02T06:42:09Z,mit
+163,ionic-team/ionic-framework,48325,13621,48325,526,"angular, capacitor, framework, frontend, ionic, ios, javascript, material-design, mobile, pwa, react, stencil, stenciljs, typescript, vue, web, webcomponents",TypeScript,2013-08-20T23:06:02Z,2022-12-02T09:29:21Z,mit
+164,sindresorhus/awesome-nodejs,48204,5527,48204,11,"awesome, awesome-list, javascript, list, node, nodejs",,2014-07-11T13:35:34Z,2022-12-02T09:50:57Z,cc0-1.0
+165,syncthing/syncthing,47977,3618,47977,350,"go, p2p, peer-to-peer, synchronization",Go,2013-11-26T09:48:21Z,2022-12-02T09:48:07Z,mpl-2.0
+166,tesseract-ocr/tesseract,47678,8258,47678,374,"hacktoberfest, lstm, machine-learning, ocr, ocr-engine, tesseract, tesseract-ocr",C++,2014-08-12T18:04:59Z,2022-12-02T08:51:22Z,apache-2.0
+167,Developer-Y/cs-video-courses,47666,6862,47666,6,"algorithms, bioinformatics, computer-architecture, computer-science, computer-vision, database-systems, databases, embedded-systems, machine-learning, programming-language, quantum-computing, robotics, security, systems, web-development",,2016-10-21T17:02:11Z,2022-12-02T09:10:42Z,
+168,moment/moment,47090,7118,47090,236,,JavaScript,2011-03-01T02:46:06Z,2022-12-02T09:34:36Z,mit
+169,google/material-design-icons,46878,9433,46878,191,"android, icons, ios, material, material-design, sprites, web",,2014-10-08T18:01:28Z,2022-12-02T09:47:30Z,apache-2.0
+170,ReactiveX/RxJava,46680,7639,46680,16,"flow, java, reactive-streams, rxjava",Java,2013-01-08T20:11:48Z,2022-12-02T05:49:54Z,apache-2.0
+171,ageitgey/face_recognition,46653,12629,46653,687,"face-detection, face-recognition, machine-learning, python",Python,2017-03-03T21:52:39Z,2022-12-02T09:04:10Z,mit
+172,jgthms/bulma,46450,3918,46450,330,"css, css-framework, design, flexbox, html",CSS,2016-01-23T23:48:34Z,2022-12-02T09:28:45Z,mit
+173,google/guava,46299,10288,46299,767,"guava, java",Java,2014-05-29T16:23:17Z,2022-12-02T09:11:32Z,apache-2.0
+174,soimort/you-get,46132,9107,46132,382,,Python,2012-08-20T15:53:36Z,2022-12-02T09:40:29Z,other
+175,MunGell/awesome-for-beginners,46058,6050,46058,77,"awesome, awesome-list, beginner-project, beginners-friendly, list",,2015-10-24T19:53:36Z,2022-12-02T08:45:14Z,
+176,bradtraversy/design-resources-for-developers,46043,9744,46043,0,,,2020-05-06T14:40:35Z,2022-12-02T09:11:38Z,mit
+177,prometheus/prometheus,45712,7704,45712,815,"alerting, graphing, hacktoberfest, metrics, monitoring, prometheus, time-series",Go,2012-11-24T11:14:12Z,2022-12-02T09:44:46Z,apache-2.0
+178,jekyll/jekyll,45679,9934,45679,186,"blog-engine, jekyll, liquid, markdown, ruby, static-site-generator",Ruby,2008-10-20T06:29:03Z,2022-12-02T09:33:51Z,mit
+179,NARKOZ/hacker-scripts,45291,6698,45291,68,,JavaScript,2015-11-21T19:05:09Z,2022-12-02T07:13:11Z,
+180,fighting41love/funNLP,45282,11911,45282,12,,Python,2018-08-21T11:20:39Z,2022-12-02T09:11:39Z,
+181,scrapy/scrapy,45272,9799,45272,764,"crawler, crawling, framework, hacktoberfest, python, scraping",Python,2010-02-22T02:01:14Z,2022-12-02T06:34:42Z,bsd-3-clause
+182,microsoft/playwright,45159,2197,45159,679,"automation, chrome, chromium, e2e-testing, electron, firefox, javascript, playwright, testing, web, webkit",TypeScript,2019-11-15T18:32:42Z,2022-12-02T10:00:40Z,apache-2.0
+183,localstack/localstack,45010,3367,45010,401,"aws, continuous-integration, developer-tools, hacktoberfest, localstack, python, testing",Python,2016-10-25T23:48:03Z,2022-12-02T09:02:38Z,other
+184,wasabeef/awesome-android-ui,44689,10244,44689,20,"android, awesome, ui",,2014-12-24T01:45:03Z,2022-12-02T08:06:56Z,mit
+185,caddyserver/caddy,44574,3462,44574,104,"acme, automatic-https, caddy, caddyfile, go, golang, hacktoberfest, http, http-server, http3, https, privacy, reverse-proxy, security, tls, web-server",Go,2015-01-13T19:45:03Z,2022-12-02T08:11:27Z,apache-2.0
+186,git/git,44420,24353,44420,114,"c, hacktoberfest, shell",C,2008-07-23T14:21:26Z,2022-12-02T09:18:39Z,other
+187,prettier/prettier,44376,3631,44376,1117,"angular, ast, css, flow, formatter, graphql, html, javascript, json, jsx, less, markdown, prettier, printer, scss, typescript, vue, yaml",JavaScript,2016-11-29T17:13:37Z,2022-12-02T09:52:02Z,mit
+188,minimaxir/big-list-of-naughty-strings,44215,2106,44215,94,,Python,2015-08-08T20:57:20Z,2022-12-02T09:39:58Z,mit
+189,Solido/awesome-flutter,44209,6167,44209,44,"android, awesome, awesome-list, collections, cross-platform, dartlang, flutter, flutter-apps, flutter-examples, flutter-plugin, flutter-plugins, ios, material-design, mobile, mobile-app, mobile-development, reactive-programming, resources",Dart,2017-05-07T11:45:27Z,2022-12-02T08:58:38Z,
+190,prakhar1989/awesome-courses,44207,7890,44207,42,"awesome, awesome-list, computer-science, courses",,2014-11-15T18:36:49Z,2022-12-02T07:38:57Z,
+191,serverless/serverless,43836,5446,43836,981,"aws, aws-dynamodb, aws-lambda, azure-functions, google-cloud-functions, microservice, serverless, serverless-architectures, serverless-framework",JavaScript,2015-04-21T03:48:40Z,2022-12-02T09:46:13Z,mit
+192,juliangarnier/anime,43827,3613,43827,189,"animation, anime, canvas, css, javascript, javascript-library, svg",JavaScript,2016-03-13T21:37:45Z,2022-12-02T09:52:05Z,mit
+193,ocornut/imgui,43605,7661,43605,816,"api, cplusplus, framework, gamedev, gui, imgui, library, native, toolkit, tools, ui",C++,2014-07-21T14:29:47Z,2022-12-02T10:02:10Z,mit
+194,danielmiessler/SecLists,43375,21633,43375,34,,PHP,2012-02-19T01:30:18Z,2022-12-02T09:45:57Z,mit
+195,swisskyrepo/PayloadsAllTheThings,43358,11590,43358,16,"bounty, bugbounty, bypass, cheatsheet, enumeration, hacking, hacktoberfest, methodology, payload, payloads, penetration-testing, pentest, privilege-escalation, redteam, security, vulnerability, web-application",Python,2016-10-18T07:29:07Z,2022-12-02T10:05:04Z,mit
+196,obsproject/obs-studio,43345,6463,43345,641,"c, c-plus-plus, directshow, facebook-live, ffmpeg, game-capture, live-streaming, screen-capture, twitch-tv, video-recording, youtube-live",C,2013-10-01T02:40:31Z,2022-12-02T09:44:24Z,gpl-2.0
+197,alacritty/alacritty,43324,2561,43324,320,"bsd, gpu, linux, macos, opengl, rust, terminal, terminal-emulators, vte, windows",Rust,2016-02-18T05:02:30Z,2022-12-02T09:53:16Z,apache-2.0
+198,square/okhttp,43232,8977,43232,158,"android, graalvm, java, kotlin",Kotlin,2012-07-23T13:42:55Z,2022-12-02T09:02:34Z,apache-2.0
+199,JetBrains/kotlin,43229,5344,43229,154,"compiler, gradle-plugin, intellij-plugin, kotlin, kotlin-library, maven-plugin, programming-language",Kotlin,2012-02-13T17:29:58Z,2022-12-02T08:10:28Z,
+200,ziishaned/learn-regex,43192,6177,43192,67,"learn-regex, regex, regular-expression",,2017-07-22T12:21:03Z,2022-12-02T09:47:04Z,mit
+201,meteor/meteor,43139,5227,43139,200,"build-system, framework, hacktoberfest, javascript, meteor, mongodb, nodejs, npm, reactive-programming, zero-configuration",JavaScript,2012-01-19T01:58:17Z,2022-12-02T09:41:29Z,other
+202,microsoft/ML-For-Beginners,42967,8635,42967,12,"data-science, education, machine-learning, machine-learning-algorithms, machinelearning, machinelearning-python, ml, python, r, scikit-learn, scikit-learn-python",Jupyter Notebook,2021-03-03T01:34:05Z,2022-12-02T09:26:36Z,mit
+203,deepfakes/faceswap,42884,11999,42884,19,"deep-face-swap, deep-learning, deep-neural-networks, deepface, deepfakes, deeplearning, face-swap, faceswap, fakeapp, machine-learning, myfakeapp, neural-nets, neural-networks, openfaceswap",Python,2017-12-19T09:44:13Z,2022-12-02T09:33:19Z,gpl-3.0
+204,aymericdamien/TensorFlow-Examples,42383,15157,42383,218,"deep-learning, examples, machine-learning, python, tensorflow, tutorial",Jupyter Notebook,2015-11-11T14:21:19Z,2022-12-02T08:49:01Z,other
+205,binhnguyennus/awesome-scalability,42153,4807,42153,14,"architecture, awesome, awesome-list, backend, big-data, computer-science, design-patterns, devops, distributed-systems, interview, interview-practice, interview-questions, lists, machine-learning, programming, resources, scalability, system, system-design, web-development",,2017-12-27T03:46:40Z,2022-12-02T09:33:32Z,mit
+206,fffaraz/awesome-cpp,42054,6648,42054,416,"awesome, awesome-list, c, c-plus-plus, cpp, cpp-library, cppcon, libraries, list, lists, programming-tutorial, resources",,2014-07-17T08:51:11Z,2022-12-02T08:42:39Z,mit
+207,etcd-io/etcd,41998,8953,41998,167,"cncf, consensus, database, distributed-database, distributed-systems, etcd, go, key-value, kubernetes, raft",Go,2013-07-06T21:57:21Z,2022-12-02T08:24:56Z,apache-2.0
+208,ventoy/Ventoy,41997,3033,41997,385,"auto-install, bootable-usb, bsd, chromeos, iso-files, legacy, linux, multiboot, persistence, secure-boot, uefi, unattended, unix, usb, windows",C,2020-03-10T15:19:19Z,2022-12-02T08:28:13Z,gpl-3.0
+209,cypress-io/cypress,41875,2637,41875,2845,"cypress, e2e-testing, e2e-tests, end-to-end-testing, javascript-tests, test, test-automation, test-runner, test-suite, testing, testing-tools, tests",JavaScript,2015-03-04T00:46:28Z,2022-12-02T09:36:23Z,mit
+210,android/architecture-samples,41869,11351,41869,224,"android, android-architecture, samples",Kotlin,2016-02-05T13:42:07Z,2022-12-01T14:59:03Z,apache-2.0
+211,TryGhost/Ghost,41856,9036,41856,65,"blogging, cms, creator-economy, ember, ghost, hacktoberfest, headless-cms, jamstack, javascript, journalism, nodejs, publishing, web-application",JavaScript,2013-05-04T11:09:13Z,2022-12-02T10:02:17Z,mit
+212,ColorlibHQ/AdminLTE,41815,17886,41815,96,"admin, admin-dashboard, admin-panel, admin-template, bootstrap",JavaScript,2013-12-25T02:52:40Z,2022-12-02T09:47:02Z,mit
+213,supabase/supabase,41774,2630,41774,296,"deno, firebase, graphql, hacktoberfest, postgres, postgresql, postgrest, realtime, supabase, websockets",TypeScript,2019-10-12T05:56:49Z,2022-12-02T10:03:23Z,apache-2.0
+214,DefinitelyTyped/DefinitelyTyped,41774,28352,41774,900,"definition, dts, hacktoberfest, types, typescript, typescript-definitions, typings",TypeScript,2012-10-05T16:39:45Z,2022-12-02T09:46:06Z,other
+215,tldr-pages/tldr,41772,3490,41772,281,"command-line, console, documentation, examples, hacktoberfest, help, man-page, manpages, manual, shell, terminal, tldr",Markdown,2013-12-08T07:34:43Z,2022-12-02T09:28:04Z,other
+216,parcel-bundler/parcel,41689,2219,41689,769,"assets, build-tool, commonjs, compiler, css, es6, html, javascript, module-bundler, modules, web",JavaScript,2017-08-07T16:36:47Z,2022-12-02T10:01:18Z,mit
+217,babel/babel,41674,5504,41674,797,"ast, babel, compiler, es2015, es6, flavortown, javascript",TypeScript,2014-09-28T13:38:23Z,2022-12-02T09:34:57Z,mit
+218,nuxt/nuxt.js,41670,3312,41670,520,"framework, isomorphic, nuxt, server-rendering, ssr, universal, vue, vue-router, vuex, web-app",JavaScript,2016-10-26T11:18:47Z,2022-12-02T09:43:25Z,other
+219,algorithm-visualizer/algorithm-visualizer,41520,6664,41520,45,"algorithm, animation, data-structure, visualization",JavaScript,2016-05-15T00:27:45Z,2022-12-02T09:29:53Z,mit
+220,iamkun/dayjs,41461,2072,41461,616,"date, date-formatting, datetime, dayjs, moment, time",JavaScript,2018-04-10T09:26:44Z,2022-12-02T06:38:04Z,mit
+221,gogs/gogs,41296,4660,41296,827,"git, go, gogs, lsif-enabled",Go,2014-02-12T01:57:08Z,2022-12-02T08:15:53Z,mit
+222,astaxie/build-web-application-with-golang,41280,10675,41280,119,,Go,2012-08-02T11:49:35Z,2022-12-02T09:54:46Z,bsd-3-clause
+223,vsouza/awesome-ios,41227,6676,41227,26,"apple-swift, arkit, awesome, ios, ios-animation, ios-libraries, objective-c, objective-c-library, swift-extensions, swift-framework, swift-language, swift-library, swift-programming",Swift,2014-07-10T16:03:45Z,2022-12-02T09:30:10Z,mit
+224,Eugeny/tabby,41106,2521,41106,1158,"serial, ssh-client, telnet-client, terminal, terminal-emulators",TypeScript,2016-12-23T09:06:10Z,2022-12-02T09:22:05Z,mit
+225,JuliaLang/julia,41045,5037,41045,4312,"hacktoberfest, hpc, julia, julia-language, machine-learning, numerical, programming-language, science, scientific",Julia,2011-04-21T07:01:50Z,2022-12-02T09:29:09Z,mit
+226,v2ray/v2ray-core,40996,8506,40996,31,"golang, http-proxy, proxy, shadowsocks, socks, socks5, v2ray, vmess",Go,2015-09-04T11:42:53Z,2022-12-02T08:09:39Z,mit
+227,yarnpkg/yarn,40964,2878,40964,1954,"javascript, npm, package-manager, yarn",JavaScript,2016-01-19T17:39:16Z,2022-12-02T09:59:22Z,other
+228,Textualize/rich,40912,1427,40912,98,"ansi-colors, emoji, markdown, progress-bar, progress-bar-python, python, python-library, python3, rich, syntax-highlighting, tables, terminal, terminal-color, traceback, tracebacks-rich, tui",Python,2019-11-10T15:28:09Z,2022-12-02T09:28:16Z,mit
+229,square/retrofit,40851,7202,40851,165,"android, java",Java,2010-09-06T21:39:43Z,2022-12-02T07:03:36Z,apache-2.0
+230,facebook/jest,40823,6170,40823,989,"easy, expectation, facebook, immersive, javascript, painless, painless-javascript-testing, snapshot, testing",TypeScript,2013-12-10T00:18:04Z,2022-12-02T02:12:46Z,mit
+231,mozilla/pdf.js,40747,9114,40747,353,,JavaScript,2011-04-26T06:32:03Z,2022-12-02T08:45:33Z,apache-2.0
+232,traefik/traefik,40590,4417,40590,608,"consul, docker, etcd, go, golang, kubernetes, letsencrypt, load-balancer, marathon, mesos, microservice, reverse-proxy, zookeeper",Go,2015-09-13T19:04:02Z,2022-12-02T04:52:14Z,mit
+233,karan/Projects,40547,10435,40547,85,,,2013-07-04T13:37:27Z,2022-12-02T08:44:04Z,mit
+234,k88hudson/git-flight-rules,40483,3134,40483,17,,,2014-07-22T20:35:09Z,2022-12-02T09:36:47Z,cc-by-sa-4.0
+235,ethereum/go-ethereum,40395,15480,40395,385,"blockchain, ethereum, geth, go, p2p",Go,2013-12-26T13:05:46Z,2022-12-02T09:25:36Z,lgpl-3.0
+236,Fndroid/clash_for_windows_pkg,40356,5350,40356,194,"clash, cross-platform, electron, gui, vuejs",,2018-10-18T22:59:10Z,2022-12-02T10:01:24Z,
+237,facebook/docusaurus,40124,6061,40124,278,"documentation, hacktoberfest, javascript, open-source, react, website",TypeScript,2017-06-20T16:13:53Z,2022-12-02T09:52:18Z,mit
+238,ryanoasis/nerd-fonts,40009,3110,40009,249,"font, font-awesome, fonts, hacktoberfest, icon-font, iconic-fonts, octicons, patched-fonts, patcher, powerline, python, shell, statusline",CSS,2014-12-05T04:31:17Z,2022-12-02T09:50:29Z,other
+239,pi-hole/pi-hole,39852,2406,39852,41,"ad-blocker, blocker, cloud, dashboard, dhcp, dhcp-server, dns-server, dnsmasq, hacktoberfest, pi-hole, raspberry-pi, shell",Shell,2014-06-08T15:02:55Z,2022-12-02T05:48:53Z,other
+240,vercel/hyper,39769,3317,39769,854,"css, html, hyper, javascript, linux, macos, react, terminal, terminal-emulators",TypeScript,2016-07-01T06:01:21Z,2022-12-02T09:51:25Z,mit
+241,justjavac/awesome-wechat-weapp,39640,8156,39640,2,"demo, minapp, miniprogram, weapp-demo, wechat, wechat-weapp, wepy, wxapp, wxml",,2016-09-22T20:04:48Z,2022-12-02T09:42:56Z,gpl-3.0
+242,x64dbg/x64dbg,39485,1988,39485,523,"cpp, debugger, disassembler, hacktoberfest, reverse-engineering, security, windows, x64, x86, x86-64",C++,2015-04-11T20:48:23Z,2022-12-02T09:57:14Z,other
+243,bailicangdu/vue2-elm,39465,12434,39465,102,"es2015, flex, sass, vue, vue-router, vuex, webpack",Vue,2016-12-23T01:49:20Z,2022-12-02T09:11:11Z,gpl-2.0
+244,nwjs/nw.js,39262,3958,39262,887,"desktop, javascript, node-webkit, nodejs, nwjs, web-application-framework",JavaScript,2012-01-04T06:21:10Z,2022-12-02T09:37:21Z,mit
+245,Avik-Jain/100-Days-Of-ML-Code,39038,9749,39038,59,"100-days-of-code-log, 100daysofcode, deep-learning, implementation, infographics, linear-algebra, linear-regression, logistic-regression, machine-learning, machine-learning-algorithms, naive-bayes-classifier, python, scikit-learn, siraj-raval, siraj-raval-challenge, support-vector-machines, svm, tutorial",,2018-07-05T09:11:43Z,2022-12-02T09:15:16Z,mit
+246,Alvin9999/new-pac,38785,7687,38785,312,"brook, fanqiang, free-ss, free-ssr, freegate, gfw, goflyway, kcptun, lantern, naiveproxy, shadowsocks, shadowsocksr, ss, ssr, trojan, v2ray, vmess, vpn",,2016-03-23T08:43:36Z,2022-12-02T09:38:53Z,
+247,Dogfalo/materialize,38737,4853,38737,801,"css, css-framework, design, framework, javascript, material, material-design",JavaScript,2014-09-12T19:35:38Z,2022-12-02T06:58:37Z,mit
+248,Alamofire/Alamofire,38642,7308,38642,39,"alamofire, carthage, certificate-pinning, cocoapods, httpurlresponse, networking, parameter-encoding, public-key-pinning, request, response, swift, swift-package-manager, urlrequest, urlsession, xcode",Swift,2014-07-31T05:56:19Z,2022-12-02T09:14:27Z,mit
+249,FiloSottile/mkcert,38582,1943,38582,96,"certificates, chrome, firefox, https, ios, linux, local-development, localhost, macos, root-ca, tls, windows",Go,2018-06-25T05:33:03Z,2022-12-02T09:12:12Z,bsd-3-clause
+250,sharkdp/bat,38370,1011,38370,167,"cli, command-line, git, hacktoberfest, rust, syntax-highlighting, terminal, tool",Rust,2018-04-21T10:52:23Z,2022-12-02T09:05:36Z,apache-2.0
+251,chinese-poetry/chinese-poetry,38349,7900,38349,85,"chinese, chinese-poetry, ci, json, poetry, tangshi",JavaScript,2016-09-02T03:32:25Z,2022-12-02T08:27:22Z,mit
+252,tiimgreen/github-cheat-sheet,38332,5210,38332,25,"awesome, awesome-list, git, github, list",,2014-04-12T16:38:42Z,2022-12-02T09:06:42Z,mit
+253,pixijs/pixijs,38202,4671,38202,112,"canvas, canvas2d, data-visualization, game, glsl, javascript, pixi, pixijs, renderer, rendering, rendering-2d-graphics, rendering-engine, webgl",TypeScript,2013-01-21T22:40:50Z,2022-12-02T05:53:09Z,mit
+254,Unitech/pm2,38169,2492,38169,687,"command-line, command-line-tool, deploy, load-balancer, monitoring, node, nodejs, pm2, process-manager, production",JavaScript,2013-05-21T03:25:25Z,2022-12-02T09:56:28Z,other
+255,typescript-cheatsheets/react,38167,3399,38167,2,"cheatsheet, guide, hacktoberfest, hacktoberfest2022, react, typescript",JavaScript,2018-06-02T04:08:16Z,2022-12-02T09:56:58Z,mit
+256,apache/dubbo,38157,25455,38157,526,dubbo,Java,2012-06-19T07:56:02Z,2022-12-02T02:57:26Z,apache-2.0
+257,CorentinJ/Real-Time-Voice-Cloning,38038,6944,38038,94,"deep-learning, python, pytorch, tensorflow, tts, voice-cloning",Python,2019-05-26T08:56:15Z,2022-12-02T09:11:42Z,other
+258,styled-components/styled-components,37842,2372,37842,139,"css, css-in-js, react, styled-components",TypeScript,2016-08-16T06:41:32Z,2022-12-02T09:52:12Z,mit
+259,commaai/openpilot,37661,6807,37661,314,,Python,2016-11-24T01:33:30Z,2022-12-02T09:58:29Z,mit
+260,sherlock-project/sherlock,37566,4426,37566,210,"cli, hacktoberfest, hacktoberfest2022, information-gathering, linux, macos, osint, python, python3, reconnaissance, redteam, sherlock, tools, windows",Python,2018-12-24T14:30:48Z,2022-12-02T09:56:59Z,mit
+261,dcloudio/uni-app,37456,3383,37456,1059,"android, cross-platform, crossplatform, hbuilderx, ios, javascript, miniprogram, mpvue, uni, uni-app, uniapp, vue, vue3",JavaScript,2018-07-12T08:52:39Z,2022-12-02T10:01:49Z,apache-2.0
+262,marktext/marktext,37313,2837,37313,947,"dark-mode, editor, electron, element-ui, emoji, focus-mode, latex, linux, mac, macos, markdown, marktext, next-generation, source-code, typewriter-mode, vue, windows",JavaScript,2017-11-12T16:05:25Z,2022-12-02T09:49:05Z,mit
+263,mastodon/mastodon,37056,5576,37056,3356,"activity-stream, activitypub, docker, mastodon, microblog, social-network, webfinger",Ruby,2016-02-22T15:01:25Z,2022-12-02T09:35:51Z,agpl-3.0
+264,impress/impress.js,37019,6835,37019,65,,JavaScript,2011-12-28T22:23:19Z,2022-12-02T08:23:58Z,mit
+265,huginn/huginn,37000,3348,37000,656,"agent, automation, feed, feedgenerator, huginn, monitoring, notifications, rss, scraper, twitter, twitter-streaming, webscraping",Ruby,2013-03-10T06:00:31Z,2022-12-02T08:13:07Z,mit
+266,discourse/discourse,36927,7836,36927,67,"discourse, ember, forum, javascript, postgresql, rails, ruby",Ruby,2013-01-12T00:25:55Z,2022-12-02T09:26:29Z,gpl-2.0
+267,ngosang/trackerslist,36908,6352,36908,3,"bittorrent, bittorrent-tracker, bittorrent-trackers, http, list, lists, public-tracker, public-trackers, torrent, tracker, trackers, trackerslist, udp, webtorrent, ws",,2016-04-24T11:57:57Z,2022-12-02T09:52:25Z,gpl-2.0
+268,jakevdp/PythonDataScienceHandbook,36708,16221,36708,185,"jupyter-notebook, matplotlib, numpy, pandas, python, scikit-learn",Jupyter Notebook,2016-08-10T14:24:36Z,2022-12-02T09:56:06Z,mit
+269,d2l-ai/d2l-zh,36591,8247,36591,12,"book, chinese, computer-vision, deep-learning, machine-learning, natural-language-processing, notebook, python",Python,2017-08-23T04:40:24Z,2022-12-02T09:15:32Z,apache-2.0
+270,minio/minio,36544,4341,36544,32,"amazon-s3, cloud, cloudnative, cloudstorage, go, k8s, kubernetes, multi-cloud, multi-cloud-kubernetes, objectstorage, s3, storage",Go,2015-01-14T19:23:58Z,2022-12-02T09:41:28Z,agpl-3.0
+271,FreeCodeCampChina/freecodecamp.cn,36495,1364,36495,151,"career, certification, cn-freecodecamp, community, curriculum, d3, education, freecodecamp, javascript, learn-to-code, math, nodejs, nonprofits, react",CSS,2016-09-30T03:13:43Z,2022-12-01T00:54:15Z,other
+272,grpc/grpc,36437,9581,36437,796,,C++,2014-12-08T18:58:53Z,2022-12-02T09:24:24Z,apache-2.0
+273,oven-sh/bun,36410,865,36410,417,"bun, bundler, javascript, javascriptcore, jsx, nodejs, npm, react, transpiler, typescript, zig, ziglang",Zig,2021-04-14T00:48:17Z,2022-12-02T10:04:12Z,
+274,GitSquared/edex-ui,36329,2145,36329,6,"desktop, edex-ui, electron, linux, macos, nodejs, science-fiction, shell, terminal, touchscreen, tron, unixporn, windows",JavaScript,2017-01-28T09:35:02Z,2022-12-02T08:56:34Z,gpl-3.0
+275,PowerShell/PowerShell,36314,6130,36314,3372,"command-line, hacktoberfest, linux, macos, netcore, powershell, shell, windows",C#,2016-01-13T23:41:35Z,2022-12-02T08:16:29Z,mit
+276,isocpp/CppCoreGuidelines,36311,4894,36311,199,,Python,2015-08-19T20:22:52Z,2022-12-02T09:21:13Z,other
+277,Leaflet/Leaflet,36263,5519,36263,475,"hacktoberfest, javascript, leaflet, maps",JavaScript,2010-09-22T16:57:44Z,2022-12-02T09:39:24Z,bsd-2-clause
+278,golang-standards/project-layout,36223,4077,36223,94,"go, golang, project-structure, project-template, standards",Makefile,2017-09-09T16:33:26Z,2022-12-02T10:05:32Z,other
+279,excalidraw/excalidraw,36174,3049,36174,839,"collaboration, diagrams, drawing, hacktoberfest, productivity, whiteboard",TypeScript,2020-01-02T01:04:43Z,2022-12-02T10:04:01Z,mit
+280,pandas-dev/pandas,36116,15446,36116,3671,"alignment, data-analysis, data-science, flexible, pandas, python",Python,2010-08-24T01:37:33Z,2022-12-02T08:23:57Z,bsd-3-clause
+281,NationalSecurityAgency/ghidra,36101,4579,36101,1359,"disassembler, reverse-engineering, software-analysis",Java,2019-03-01T03:27:48Z,2022-12-02T09:34:24Z,apache-2.0
+282,CompVis/stable-diffusion,36098,5529,36098,379,,Jupyter Notebook,2022-08-10T14:36:44Z,2022-12-02T10:05:22Z,other
+283,dypsilon/frontend-dev-bookmarks,36090,4964,36090,114,"awesome, awesome-list, frontend, list",,2013-06-22T13:23:55Z,2022-12-02T09:00:48Z,
+284,fastlane/fastlane,36082,5362,36082,271,"android, apps, automation, deployment, fastlane, hacktoberfest, hacktoberfest2021, ios, mobile, ruby, screenshots",Ruby,2014-12-02T17:00:38Z,2022-12-02T07:26:28Z,mit
+285,yangshun/front-end-interview-handbook,35982,5245,35982,13,"css, css-questions, front-end, front-end-development, front-end-interview, front-end-system-design, html, html-questions, interview, interview-preparation, interview-questions, interview-test, javascript, js-questions, web-development",JavaScript,2018-01-13T19:40:08Z,2022-12-02T09:58:55Z,mit
+286,iperov/DeepFaceLab,35976,8102,35976,472,"arxiv, creating-deepfakes, deep-face-swap, deep-learning, deep-neural-networks, deepface, deepfacelab, deepfakes, deeplearning, face-swap, faceswap, fakeapp, machine-learning, neural-nets, neural-networks",Python,2018-06-04T13:10:00Z,2022-12-02T07:44:17Z,gpl-3.0
+287,vuetifyjs/vuetify,35974,6475,35974,1187,"javascript, material, material-components, material-design, material-theme, semantic, typescript, ui, ui-components, ui-design, ui-kit, ui-library, vue, vue-components, vue-material, vuejs, vuejs3, vuetify, vuetifyjs",TypeScript,2016-09-12T00:39:35Z,2022-12-02T07:46:33Z,mit
+288,PhilJay/MPAndroidChart,35868,8852,35868,2113,"android, chart, graph, java, mpandroidchart",Java,2014-04-25T14:29:47Z,2022-12-02T02:48:55Z,other
+289,faif/python-patterns,35853,6648,35853,9,"design-patterns, idioms, python",Python,2012-06-06T21:02:35Z,2022-12-02T09:29:15Z,
+290,rclone/rclone,35810,3279,35810,852,"amazon-drive, azure-blob, backblaze-b2, cloud-storage, dropbox, encryption, ftp, fuse-filesystem, go, golang, google-cloud-storage, google-drive, hubic, onedrive, openstack-swift, rclone, s3, sftp, sync, webdav",Go,2014-03-16T16:19:57Z,2022-12-02T09:12:47Z,mit
+291,hexojs/hexo,35802,4403,35802,81,"hexo, javascript, nodejs, static-site-generator",JavaScript,2012-09-23T15:17:08Z,2022-12-02T03:09:43Z,mit
+292,jgraph/drawio-desktop,35799,3892,35799,174,"diagram-editor, electron-app, graphics, javascript-applications",Shell,2017-05-25T20:58:42Z,2022-12-02T09:59:26Z,apache-2.0
+293,yt-dlp/yt-dlp,35736,2947,35736,883,"python, sponskrub, sponsorblock, video-downloader, youtube-dl, youtube-dlc, youtube-downloader, yt-dlp",Python,2020-10-26T04:22:55Z,2022-12-02T09:54:51Z,unlicense
+294,alex/what-happens-when,35544,2776,35544,279,,,2013-11-07T04:30:06Z,2022-12-02T06:42:01Z,
+295,kamranahmedse/design-patterns-for-humans,35518,4452,35518,16,"architecture, computer-science, design-patterns, engineering, principles, software-engineering",,2017-02-16T21:24:39Z,2022-12-02T02:12:53Z,
+296,hashicorp/terraform,35368,8162,35368,1708,"cloud, cloud-management, graph, infrastructure-as-code, terraform",Go,2014-03-13T22:25:48Z,2022-12-02T09:02:41Z,mpl-2.0
+297,google/zx,35251,841,35251,19,"bash, cli, javascript, nodejs, shell",JavaScript,2021-05-05T05:50:01Z,2022-12-02T06:20:48Z,apache-2.0
+298,slatedocs/slate,34717,21800,34717,52,"api, api-documentation, slate, static-site-generator",SCSS,2013-09-13T22:15:24Z,2022-12-02T08:44:05Z,apache-2.0
+299,wagoodman/dive,34712,1383,34712,144,"cli, docker, docker-image, explorer, inspector, tui",Go,2018-05-13T15:44:01Z,2022-12-02T09:38:51Z,mit
+300,php/php-src,34663,7379,34663,522,,C,2011-06-16T01:52:25Z,2022-12-02T09:51:24Z,other
+301,videojs/video.js,34631,7273,34631,372,"dash, hls, html, html5, html5-audio, html5-video, javascript, player, video, videojs",JavaScript,2010-05-14T18:45:10Z,2022-12-02T09:28:17Z,other
+302,nodejs/node-v0.x-archive,34626,7540,34626,571,,,2009-05-27T16:29:46Z,2022-12-01T14:20:38Z,
+303,agalwood/Motrix,34599,3960,34599,614,"aria2, bittorrent, bt, download, download-manager, electron, linux, mac, macos, magnet, motrix, windows",JavaScript,2018-12-18T11:45:05Z,2022-12-02T08:37:45Z,mit
+304,BurntSushi/ripgrep,34521,1544,34521,176,"cli, command-line, command-line-tool, gitignore, grep, recursively-search, regex, ripgrep, search",Rust,2016-03-11T02:02:33Z,2022-12-02T00:42:48Z,unlicense
+305,akullpp/awesome-java,34485,6975,34485,24,"awesome, awesome-list",,2014-07-09T10:12:43Z,2022-12-02T09:27:10Z,other
+306,apache/spark,34480,26371,34480,217,"big-data, java, jdbc, python, r, scala, spark, sql",Scala,2014-02-25T08:00:08Z,2022-12-02T08:24:04Z,apache-2.0
+307,floodsung/Deep-Learning-Papers-Reading-Roadmap,34347,7152,34347,90,deep-learning,Python,2016-10-14T11:49:48Z,2022-12-02T09:52:41Z,
+308,apachecn/ailearning,34341,10982,34341,4,"adaboost, apriori, deeplearning, dnn, fp-growth, kmeans, logistic, lstm, mahchine-leaning, naivebayes, nlp, pca, python, recommendedsystem, regression, rnn, scikit-learn, sklearn, svd, svm",Python,2017-02-25T08:53:02Z,2022-12-02T08:44:37Z,other
+309,2dust/v2rayN,34325,6717,34325,65,"proxy, shadowsocks, socks5, trojan, v2fly, v2ray, vless, vmess, windows, xray, xtls",C#,2019-07-30T03:47:24Z,2022-12-02T09:47:09Z,gpl-3.0
+310,streamich/react-use,34285,2716,34285,530,,TypeScript,2018-10-27T10:16:05Z,2022-12-02T02:40:05Z,unlicense
+311,0voice/interview_internal_reference,34271,9203,34271,30,,Python,2019-06-10T06:54:19Z,2022-12-02T09:10:25Z,
+312,alvarotrigo/fullPage.js,34212,7459,34212,169,"fullpage, fullscreen, javascript, jquery, mousewheel, onepage, scrolling, sections, slide, slideshow, snap, swipe",JavaScript,2013-09-20T11:58:29Z,2022-12-02T06:31:20Z,gpl-3.0
+313,Homebrew/brew,34191,8303,34191,48,"brew, homebrew, macos, package-manager, ruby",Ruby,2016-03-06T05:08:38Z,2022-12-02T08:21:47Z,bsd-2-clause
+314,RocketChat/Rocket.Chat,34163,7816,34163,3354,"chat, collaboration, foss, free, hacktoberfest, javascript, meteor, mit, real-time, slack, webrtc",TypeScript,2015-05-19T07:36:09Z,2022-12-02T09:34:44Z,other
+315,quilljs/quill,34155,2927,34155,1308,"editor, quill, rich-text-editor, wysiwyg",JavaScript,2012-07-30T23:23:18Z,2022-12-02T09:20:51Z,bsd-3-clause
+316,evanw/esbuild,34014,927,34014,324,"commonjs, compiler, css, es6, javascript, jsx, minifier, module-bundler, react, tsx, typescript",Go,2016-06-14T16:08:50Z,2022-12-02T09:57:16Z,mit
+317,vuejs/core,33995,6149,33995,752,,TypeScript,2018-06-12T13:49:36Z,2022-12-02T10:00:46Z,mit
+318,bregman-arie/devops-exercises,33983,7595,33983,18,"ansible, aws, azure, coding, containers, devops, docker, git, interview, interview-questions, kubernetes, linux, openstack, production-engineer, prometheus, python, sql, sre, terraform",Python,2019-10-03T17:31:21Z,2022-12-02T09:48:59Z,other
+319,lerna/lerna,33967,2267,33967,336,"lerna, monorepo, npm, package, publishing",JavaScript,2015-12-04T09:36:55Z,2022-12-02T09:40:40Z,mit
+320,sahat/hackathon-starter,33946,8029,33946,28,"boilerplate, hackathon, hacktoberfest, nodejs, oauth2, starter-kit",JavaScript,2013-11-13T17:24:12Z,2022-12-02T07:30:51Z,mit
+321,Dreamacro/clash,33881,4571,33881,70,"clash, golang, rule-based, tunnel",Go,2018-06-10T14:28:14Z,2022-12-02T09:56:08Z,gpl-3.0
+322,rustdesk/rustdesk,33865,2973,33865,343,"anydesk, flutter, flutter-apps, flutter-desktop, flutter-examples, flutter-mobile, flutter-ui, flutter-web, frp, p2p, parsec, rdp, remote, remote-access, remote-control, remote-desktop, rust, scrcpy, teamviewer, vnc",Rust,2020-09-28T15:36:08Z,2022-12-02T10:00:39Z,agpl-3.0
+323,youngyangyang04/leetcode-master,33798,8506,33798,122,"algorithm, cpp, go, interview, java, javascript, leetcode, offer, programmer, python",Shell,2019-12-14T12:05:42Z,2022-12-02T10:00:41Z,
+324,poteto/hiring-without-whiteboards,33728,2902,33728,27,"airtable, hiring, hiring-without-whiteboards, interview, jobs, tech, whiteboard",JavaScript,2017-03-15T05:09:01Z,2022-12-02T08:53:19Z,mit
+325,kelseyhightower/kubernetes-the-hard-way,33672,11288,33672,151,,,2016-07-07T14:15:27Z,2022-12-02T09:31:10Z,apache-2.0
+326,go-gitea/gitea,33547,4241,33547,2077,"devops, git, gitea, github, gitlab, go, gogs, golang, hacktoberfest",Go,2016-11-01T02:13:26Z,2022-12-02T09:49:53Z,mit
+327,adobe/brackets,33519,8054,33519,2789,,JavaScript,2011-12-07T21:14:40Z,2022-12-01T17:36:50Z,mit
+328,Kong/kong,33498,4332,33498,338,"api-gateway, api-management, apis, cloud-native, consul, devops, docker, iot, kong, kubernetes, kubernetes-ingress, kubernetes-ingress-controller, luajit, microservice, microservices, nginx, reverse-proxy, serverless, servicecontrol",Lua,2014-11-17T23:56:08Z,2022-12-02T06:47:15Z,apache-2.0
+329,gorhill/uBlock,33409,2566,33409,16,"blocker, browser-extension, chromium, firefox, javascript, ublock, ublock-origin",JavaScript,2015-04-01T17:51:11Z,2022-12-02T09:38:56Z,gpl-3.0
+330,wg/wrk,33407,2758,33407,170,,C,2012-03-20T11:12:28Z,2022-12-02T02:22:33Z,other
+331,preactjs/preact,33405,1840,33405,230,"components, dom, jsx, preact, react, vdom, virtual-dom",JavaScript,2015-09-11T02:40:18Z,2022-12-02T08:12:28Z,mit
+332,brillout/awesome-react-components,33403,2878,33403,2,"awesome, awesome-list, react, react-component, react-components",,2016-06-24T15:19:33Z,2022-12-02T08:28:56Z,cc0-1.0
+333,airbnb/lottie-android,33399,5324,33399,11,"after-effects, airbnb, android, animation, lottie",Java,2016-10-06T22:42:42Z,2022-12-02T06:17:28Z,apache-2.0
+334,nolimits4web/swiper,33382,9643,33382,257,"carousel, gallery, mobile, slider, swipe, swiper, touch, touch-events",JavaScript,2012-03-14T19:11:45Z,2022-12-02T09:47:57Z,mit
+335,chubin/cheat.sh,33377,1616,33377,107,"cheatsheet, cli, command-line, curl, documentation, examples, hacktoberfest2021, help, terminal, tldr",Python,2017-05-07T21:40:56Z,2022-12-02T10:02:30Z,mit
+336,ultralytics/yolov5,33371,12044,33371,345,"coreml, deep-learning, ios, machine-learning, ml, object-detection, onnx, pytorch, tflite, yolo, yolov3, yolov4, yolov5",Python,2020-05-18T03:45:11Z,2022-12-02T10:00:55Z,gpl-3.0
+337,koajs/koa,33361,3242,33361,55,koa,JavaScript,2013-07-20T18:53:45Z,2022-12-02T09:38:09Z,mit
+338,AFNetworking/AFNetworking,33344,10234,33344,101,,Objective-C,2011-05-31T21:28:44Z,2022-12-02T02:21:23Z,mit
+339,ant-design/ant-design-pro,33286,7720,33286,111,"admin, ant-design, antd, antv, boilerplate, dashboard, enterprise, react, umi",TypeScript,2017-08-25T10:40:44Z,2022-12-02T08:29:10Z,mit
+340,laurent22/joplin,33262,3705,33262,307,"android, dropbox, electron, enex-files, evernote, javascript, joplin, nextcloud, nodejs, note-taking, onedrive, react-native, synchronisation, web-clipper, webdav",TypeScript,2017-01-16T21:49:41Z,2022-12-02T07:39:35Z,other
+341,shadowsocks/shadowsocks,33243,19175,33243,447,,Python,2012-04-20T13:10:49Z,2022-12-02T05:21:11Z,
+342,photonstorm/phaser,33214,6851,33214,70,"canvas, facebook-instant-games, game-development, game-frameworks, gamedev, html5-game-development, javascript, phaser, phaser-development, phaserjs, webgl",JavaScript,2013-04-12T12:27:51Z,2022-12-02T02:11:49Z,mit
+343,serhii-londar/open-source-mac-os-apps,33187,2117,33187,72,"applications, apps, awesome, awesome-list, c, c-plus-plus, hacktoberfest, javascript, mac, macos, macos-application, macosx, objective-c, open-source, opensource, python, ruby, swift",,2017-11-03T02:35:33Z,2022-12-02T09:42:12Z,cc0-1.0
+344,bumptech/glide,33175,6015,33175,383,"android, disk-cache, gif, glide, imageloader",Java,2013-07-08T22:52:33Z,2022-12-02T07:03:45Z,other
+345,exacity/deeplearningbook-chinese,33168,9048,33168,65,,TeX,2016-12-07T11:46:51Z,2022-12-02T09:06:38Z,
+346,shadowsocks/shadowsocks-android,33123,11592,33123,59,"android, shadowsocks",Kotlin,2012-12-16T13:40:29Z,2022-12-02T07:45:11Z,other
+347,BVLC/caffe,33001,18978,33001,1181,"deep-learning, machine-learning, vision",C++,2013-09-12T18:39:48Z,2022-12-02T05:38:14Z,other
+348,FFmpeg/FFmpeg,32972,10320,32972,3,"audio, c, ffmpeg, fft, hevc, hls, matroska, mp4, mpeg, multimedia, rtmp, rtsp, streaming, video, webm",C,2011-04-14T14:12:38Z,2022-12-02T09:33:40Z,other
+349,pingcap/tidb,32924,5342,32924,3393,"cloud-native, database, distributed-database, distributed-transactions, go, hacktoberfest, htap, mysql, mysql-compatibility, scale, serverless, sql, tidb",Go,2015-09-06T04:01:52Z,2022-12-02T08:20:48Z,apache-2.0
+350,open-guides/og-aws,32912,3575,32912,147,,Shell,2016-07-13T17:30:16Z,2022-12-02T06:05:43Z,cc-by-4.0
+351,romkatv/powerlevel10k,32826,1716,32826,32,zsh,Shell,2019-02-24T19:09:45Z,2022-12-02T09:20:47Z,mit
+352,zenorocha/clipboard.js,32760,4076,32760,7,"clipboard, javascript",JavaScript,2015-09-18T23:04:55Z,2022-12-02T02:38:59Z,mit
+353,nlohmann/json,32748,5670,32748,62,"bson, cbor, header-only, json, json-diff, json-merge-patch, json-parser, json-patch, json-pointer, json-serialization, messagepack, msgpack, rfc-6901, rfc-6902, rfc-7049, rfc-7159, rfc-8259, stl-containers, ubjson",C++,2013-07-04T08:47:49Z,2022-12-02T09:46:11Z,mit
+354,nocodb/nocodb,32708,2011,32708,457,"admin-dashboard, admin-ui, airtable, airtable-alternative, automatic-api, hacktoberfest, low-code, mariadb, mysql, no-code, no-code-database, postgresql, rest-api, restful-api, spreadsheet, sqlite, sqlserver, swagger",TypeScript,2017-10-29T18:51:48Z,2022-12-02T09:50:29Z,agpl-3.0
+355,getsentry/sentry,32702,3667,32702,688,"apm, crash-reporting, crash-reports, csp-report, devops, django, error-logging, error-monitoring, hacktoberfest, monitor, monitoring, python, sentry",Python,2010-08-30T22:06:41Z,2022-12-02T09:44:34Z,other
+356,eugenp/tutorials,32682,51590,32682,68,,Java,2013-04-29T18:26:36Z,2022-12-02T09:32:23Z,mit
+357,google-research/bert,32665,8939,32665,867,"google, natural-language-processing, natural-language-understanding, nlp, tensorflow",Python,2018-10-25T22:57:34Z,2022-12-02T08:24:30Z,apache-2.0
+358,gulpjs/gulp,32658,4396,32658,30,,JavaScript,2013-07-04T05:26:06Z,2022-12-02T07:05:43Z,mit
+359,dkhamsing/open-source-ios-apps,32648,4902,32648,1,"app, apple, apple-tv, apple-watch, awesome, cocoapods, example, flutter, game, ios, ipad, iphone, list, objective-c, react-native, swift, swiftui, tvos, watchos",,2015-01-26T23:32:34Z,2022-12-02T10:05:07Z,cc0-1.0
+360,jeecgboot/jeecg-boot,32624,12784,32624,53,"activiti, ant-design, ant-design-vue, antd, codegenerator, java, jbpm, jeecg, jeecgboot, low-code, mybatis, shiro, spring, spring-boot, spring-cloud, springboot, springcloud, vben, vue, vue3",Java,2018-11-26T10:40:00Z,2022-12-02T08:51:58Z,apache-2.0
+361,dylanaraps/pure-bash-bible,32584,2943,32584,54,"bash, bible, book, guide, handbook, how-to, learning, list, reference, script, shell, shell-scripts",Shell,2018-06-13T01:39:33Z,2022-12-02T06:11:15Z,mit
+362,AobingJava/JavaFamily,32519,7388,32519,0,"interview, java, java8, jvm, mysql, redis, rocketmq, system, zookeeper",,2019-11-12T04:26:18Z,2022-12-02T09:34:27Z,
+363,skylot/jadx,32427,4107,32427,277,"android, decompiler, dex, java",Java,2013-03-18T17:08:21Z,2022-12-02T09:01:26Z,apache-2.0
+364,immutable-js/immutable-js,32354,1856,32354,118,,TypeScript,2014-07-02T06:02:29Z,2022-12-02T07:30:11Z,mit
+365,google/styleguide,32295,12731,32295,314,"cpplint, style-guide, styleguide",HTML,2015-05-20T19:18:59Z,2022-12-02T10:03:42Z,apache-2.0
+366,nativefier/nativefier,32288,2048,32288,204,"desktop-application, electron, linux, macos, nodejs, windows",TypeScript,2015-07-05T05:56:42Z,2022-12-02T09:32:30Z,mit
+367,jgraph/drawio,32249,6405,32249,298,"diagram, javascript, whiteboard",JavaScript,2016-09-06T12:59:15Z,2022-12-02T09:26:44Z,apache-2.0
+368,tabler/tabler,32211,3404,32211,57,"admin-dashboard, adminpanel, boilerplate-template, bootstrap, bootstrap4-theme, bootstrap5, css, dashboard, dashboard-templates, dashboards, html, html5, jekyll, modular, sass, scss, sponsors, themes, ui-kit, uikit",HTML,2018-02-01T09:08:59Z,2022-12-02T09:52:15Z,mit
+369,jondot/awesome-react-native,32193,3942,32193,67,"awesome-list, mobile, react, react-native",JavaScript,2015-03-26T19:58:06Z,2022-12-02T07:55:41Z,
+370,rust-lang/rustlings,32155,5314,32155,103,"beginner-friendly, rust, rustlings",Rust,2015-09-15T02:25:18Z,2022-12-02T09:57:41Z,mit
+371,google/material-design-lite,32110,5203,32110,394,"material, material-components, material-design, material-design-lite, mdl",HTML,2015-01-14T22:01:33Z,2022-12-02T06:21:17Z,apache-2.0
+372,microsoft/monaco-editor,32097,3086,32097,789,"browser, editor, monaco-editor, typescript, vscode",JavaScript,2016-06-07T16:56:31Z,2022-12-02T09:33:43Z,mit
+373,nektos/act,32080,807,32080,85,"ci, devops, github-actions, golang",Go,2019-01-02T19:53:43Z,2022-12-02T09:50:26Z,mit
+374,satwikkansal/wtfpython,32013,2524,32013,68,"documentation, gotchas, interview-questions, pitfalls, python, python-interview-questions, snippets, wats, wtf",Python,2017-08-28T20:22:19Z,2022-12-02T09:44:08Z,wtfpl
+375,NervJS/taro,31983,4340,31983,924,"javascript, jquery, nerv, nervjs, react, react-native, reactjs, taro, typescript, vue, vue3, wechat, wechat-mini-program, weixin, wxapp",TypeScript,2018-04-08T09:32:26Z,2022-12-02T09:47:48Z,mit
+376,react-hook-form/react-hook-form,31983,1582,31983,7,"dx, form-builder, forms, react-hooks, react-native, reactjs, typescript, ux, validation",TypeScript,2019-03-05T23:47:10Z,2022-12-02T09:12:27Z,mit
+377,istio/istio,31978,6824,31978,567,"api-management, circuit-breaker, consul, enforce-policies, envoy, fault-injection, kubernetes, lyft-envoy, microservice, microservices, nomad, polyglot-microservices, proxies, request-routing, resiliency, service-mesh",Go,2016-11-18T23:57:21Z,2022-12-02T09:35:56Z,apache-2.0
+378,iina/iina,31852,2353,31852,1431,"hacktoberfest, macos, mpv, swift, video, video-player",Swift,2016-12-19T07:18:45Z,2022-12-02T08:32:11Z,gpl-3.0
+379,SheetJS/sheetjs,31809,7892,31809,124,"angular, bun, csv, data, database, deno, excel, grid, html, html5, ios, javascript, json, nodejs, react, spreadsheet, table, vue, xlsx, xml",JavaScript,2012-12-03T19:25:52Z,2022-12-02T09:55:40Z,apache-2.0
+380,formulahendry/955.WLB,31756,1681,31756,193,,,2019-03-27T23:53:37Z,2022-12-02T09:28:43Z,
+381,GokuMohandas/Made-With-ML,31753,5261,31753,7,"data-engineering, data-science, deep-learning, machine-learning, mlops, natural-language-processing, python, pytorch",Jupyter Notebook,2018-11-05T03:44:27Z,2022-12-02T06:58:19Z,mit
+382,unknwon/the-way-to-go_ZH_CN,31643,8327,31643,35,"book, go, translation, tutorial",Go,2013-03-24T17:18:38Z,2022-12-02T07:13:45Z,
+383,carbon-app/carbon,31633,1788,31633,32,"beautiful, carbon, education, github-gist, javascript, presentation, sharing, snippets, tweet",JavaScript,2017-06-16T02:50:28Z,2022-12-02T05:38:29Z,mit
+384,Blankj/AndroidUtilCode,31622,10482,31622,230,"android, androidx, app, bar, cache, encode, encrypt, eventbus, file, fragment, log, network, permission, reflect, regex, snackbar, spannable-string, thread-pool, toast, utils",Java,2016-07-30T18:18:32Z,2022-12-02T07:56:04Z,apache-2.0
+385,xitu/gold-miner,31614,4949,31614,8,"ai, android, frontend, ios, javascript, react, swift, tensorflow, translation, tutorials",,2015-11-04T03:29:13Z,2022-12-02T08:07:45Z,
+386,geekxh/hello-algorithm,31612,6122,31612,6,"algorithms, dynamic-programming, interview-questions, leetcode, leetcode-solutions",Java,2020-05-29T05:47:09Z,2022-12-02T08:36:24Z,
+387,jaredpalmer/formik,31568,2622,31568,775,"form, formik, forms, higher-order-component, hooks, react, react-hooks, react-native, render-props",TypeScript,2017-06-14T19:50:59Z,2022-12-02T08:23:23Z,apache-2.0
+388,XX-net/XX-Net,31523,7763,31523,7854,"gfw, goagent, proxy, uncensored, vpn",Python,2015-01-15T09:35:51Z,2022-12-02T08:24:26Z,
+389,LeCoupa/awesome-cheatsheets,31461,5154,31461,70,"backend, bash, cheatsheet, cheatsheets, database, django, docker, feathersjs, frontend, javascript, kubernetes, language, nodejs, php, programming-language, redis, sailsjs, vim, vuejs, xcode",JavaScript,2017-11-09T02:47:15Z,2022-12-02T07:45:14Z,mit
+390,TanStack/query,31381,1942,31381,28,"async, cache, data, fetch, graphql, hooks, query, react, rest, stale, stale-while-revalidate, update",TypeScript,2019-09-10T19:23:58Z,2022-12-02T09:03:28Z,mit
+391,google/leveldb,31332,6958,31332,251,,C++,2014-08-27T21:17:52Z,2022-12-02T07:37:50Z,bsd-3-clause
+392,jesseduffield/lazygit,31300,1282,31300,403,"cli, git, terminal",Go,2018-05-19T00:53:06Z,2022-12-02T09:30:18Z,mit
+393,alibaba/arthas,31228,6797,31228,255,"agent, alibaba, arthas, classloader, diagnosis, java, jvm, trace, trouble-shooting",Java,2018-08-29T17:15:57Z,2022-12-02T10:01:16Z,apache-2.0
+394,Trinea/android-open-project,31106,12037,31106,27,"android, open-source-project",,2014-01-05T15:20:15Z,2022-12-02T07:42:29Z,apache-2.0
+395,meilisearch/meilisearch,31104,1120,31104,105,"api, app-search, customizable, database, easy-to-use, enterprise-search, faceting, full-text-search, geosearch, instantsearch, out-of-the-box, rest, rust, search, search-as-you-type, search-engine, site-search, synonyms, typo-tolerance",Rust,2018-04-23T11:45:28Z,2022-12-02T05:27:38Z,mit
+396,iamadamdev/bypass-paywalls-chrome,31069,2288,31069,0,"bypass, bypass-paywalls, chrome, chrome-extension, chrome-extensions, firefox, firefox-addon, firefox-extension, paywall",JavaScript,2018-04-07T20:33:19Z,2022-12-02T05:33:51Z,
+397,blueimp/jQuery-File-Upload,31058,8167,31058,49,,PHP,2010-12-01T15:35:32Z,2022-12-02T08:49:08Z,mit
+398,vlang/v,30958,1898,30958,758,"compiler, hacktoberfest, hacktoberfest-accepted, language, programming-language, v",V,2019-02-08T02:57:06Z,2022-12-02T09:14:37Z,mit
+399,bilibili/ijkplayer,30958,7899,30958,2787,"android, ffmpeg, ijkplayer, ios, player, video",C,2013-06-03T04:12:04Z,2022-12-02T09:26:35Z,gpl-2.0
+400,starship/starship,30955,1300,30955,469,"bash, fish, fish-prompt, fish-theme, oh-my-zsh, powershell, rust, shell-prompt, starship, zsh, zsh-prompt, zsh-theme",Rust,2019-04-02T03:23:12Z,2022-12-02T09:21:27Z,isc
+401,shadowsocks/ShadowsocksX-NG,30815,7964,30815,269,"kcptun, macos, shadowsocks, shadowsocksx-ng, swift, v2ray-plugin",Swift,2016-06-10T11:49:00Z,2022-12-02T10:04:35Z,gpl-3.0
+402,gto76/python-cheatsheet,30752,5627,30752,36,"cheatsheet, python, python-cheatsheet, reference",Python,2018-01-25T04:16:53Z,2022-12-02T09:40:40Z,
+403,metabase/metabase,30729,4162,30729,2431,"analytics, bi, business-intelligence, businessintelligence, clojure, dashboard, data, data-analysis, data-visualization, database, metabase, mysql, postgres, postgresql, reporting, slack, sql-editor, visualization",Clojure,2015-02-02T19:25:47Z,2022-12-02T08:56:41Z,other
+404,testerSunshine/12306,30716,9415,30716,270,,Python,2017-05-17T12:23:40Z,2022-12-01T16:35:45Z,mit
+405,topjohnwu/Magisk,30687,8163,30687,58,,C++,2016-09-08T12:42:53Z,2022-12-02T09:23:45Z,gpl-3.0
+406,koalaman/shellcheck,30675,1547,30675,805,"bash, developer-tools, haskell, linter, shell, static-analysis",Haskell,2012-11-17T03:15:11Z,2022-12-02T09:17:17Z,gpl-3.0
+407,go-gorm/gorm,30640,3414,30640,168,"go, golang, gorm, orm, web",Go,2013-10-25T08:31:38Z,2022-12-02T07:02:03Z,mit
+408,cli/cli,30609,4430,30609,429,"cli, git, github-api-v4, golang",Go,2019-10-03T15:24:53Z,2022-12-02T08:24:37Z,mit
+409,Asabeneh/30-Days-Of-JavaScript,30494,7003,30494,162,"30daysofjavascript, angular, challenge, css, d3, d3js, html, javascript, javascript-for-everyone, js, json, node, nodejs, programming, react, redux, typescript, vue, webdevelopment, website",JavaScript,2019-12-23T14:07:40Z,2022-12-02T09:07:47Z,
+410,rust-unofficial/awesome-rust,30472,1986,30472,12,"awesome, rust",Rust,2014-07-17T10:45:10Z,2022-12-02T09:03:42Z,cc0-1.0
+411,zxing/zxing,30442,9256,30442,6,"android, barcode, barcode-scanner, datamatrix, java, qr-code, upc, zxing",Java,2011-10-12T14:07:27Z,2022-12-02T09:42:19Z,apache-2.0
+412,date-fns/date-fns,30399,1558,30399,496,"date, date-fns, hacktoberfest, javascript, modules, nodejs, time, utilities",TypeScript,2014-10-06T10:24:22Z,2022-12-02T08:55:52Z,mit
+413,netty/netty,30349,15005,30349,543,,Java,2010-11-09T09:22:21Z,2022-12-02T08:54:17Z,apache-2.0
+414,psf/black,30347,1946,30347,361,"autopep8, code, codeformatter, formatter, gofmt, hacktoberfest, pre-commit-hook, python, yapf",Python,2018-03-14T19:54:45Z,2022-12-02T09:45:25Z,mit
+415,firstcontributions/first-contributions,30315,54691,30315,139,"beginner, beginner-friendly, community, contribution, contributions, contributions-welcome, good-first-issue, help-wanted, open-source, tutorial, tutorials",,2016-09-20T14:35:09Z,2022-12-02T07:51:50Z,mit
+416,freeCodeCamp/devdocs,30269,2055,30269,148,"api-documentation, app, devdocs, developer-tools, docs, documentation, documentation-tool, hacktoberfest, offline, pwa",Ruby,2013-10-24T18:16:07Z,2022-12-02T08:46:25Z,mpl-2.0
+417,dotnet/aspnetcore,30268,8541,30268,2378,"aspnetcore, dotnet, hacktoberfest",C#,2014-03-11T06:09:42Z,2022-12-02T09:16:46Z,mit
+418,QSCTech/zju-icicles,30211,8450,30211,10,,HTML,2016-06-28T16:17:32Z,2022-12-02T08:03:46Z,
+419,chakra-ui/chakra-ui,29981,2684,29981,113,"a11y, accessible, chakra-ui, dark-mode, react, react-components, reactjs, ui-components, ui-library, uikit, wai-aria",TypeScript,2019-08-17T14:27:54Z,2022-12-02T09:27:33Z,mit
+420,junegunn/vim-plug,29902,1841,29902,118,vim,Vim Script,2013-09-10T14:58:51Z,2022-12-02T10:04:42Z,mit
+421,typeorm/typeorm,29846,5534,29846,1833,"active-record, cockroachdb, data-mapper, database, electron, hacktoberfest, javascript, mariadb, mysql, oracle, orm, postgresql, react-native, sap, sap-hana, sqlite, sqlserver, typeorm, typescript, websql",TypeScript,2016-02-29T07:41:14Z,2022-12-02T04:43:07Z,mit
+422,spf13/cobra,29773,2558,29773,164,"cli, cli-app, cobra, cobra-generator, cobra-library, command, command-cobra, command-line, commandline, go, golang, golang-application, golang-library, posix, posix-compliant-flags, subcommands",Go,2013-09-03T20:40:26Z,2022-12-02T09:48:09Z,apache-2.0
+423,AppFlowy-IO/AppFlowy,29755,1683,29755,307,"content-management, content-services, editor, flutter, flutter-app, flutter-apps, flutter-examples, flutter-ui, hacktoberfest, low-code, no-code, no-code-platform, notion, notion-alternative, rust, rust-lang, rust-language, wiki",Dart,2021-06-16T12:56:48Z,2022-12-02T09:46:01Z,agpl-3.0
+424,pyenv/pyenv,29705,2640,29705,32,"python, shell",Roff,2012-08-31T06:57:52Z,2022-12-02T09:31:04Z,mit
+425,fxsjy/jieba,29631,6618,29631,653,,Python,2012-09-29T07:52:01Z,2022-12-02T07:40:10Z,mit
+426,bayandin/awesome-awesomeness,29581,3504,29581,19,,Ruby,2014-07-08T05:44:19Z,2022-12-02T09:10:19Z,
+427,vuejs/vue-cli,29529,6379,29529,1014,,JavaScript,2015-12-26T23:11:20Z,2022-12-02T06:54:41Z,mit
+428,joshbuchea/HEAD,29468,1959,29468,20,"favicon, frontend-development, head, html, html5, list, meta-tags, reference, seo, twitter-cards, web-development",,2016-04-20T20:05:37Z,2022-12-01T17:34:12Z,
+429,acmesh-official/acme.sh,29468,4067,29468,960,"acme, acme-client, acme-protocol, ash, bash, buypass, certbot, letsencrypt, posix, posix-sh, shell, zerossl",Shell,2015-12-26T12:56:33Z,2022-12-02T09:08:02Z,gpl-3.0
+430,certbot/certbot,29464,3293,29464,545,"acme, acme-client, certbot, certificate, letsencrypt, python",Python,2014-11-12T02:52:20Z,2022-12-02T09:54:00Z,other
+431,mitmproxy/mitmproxy,29442,3556,29442,269,"debugging, http, http2, man-in-the-middle, mitmproxy, proxy, python, security, ssl, tls, websocket",Python,2010-02-16T04:10:13Z,2022-12-02T08:39:19Z,mit
+432,dbeaver/dbeaver,29401,2674,29401,1613,"database, db2, dbeaver, erd, gui, java, mysql, nosql, oracle, postgresql, redshift, sql, sqlite, sqlserver",Java,2015-10-21T08:26:28Z,2022-12-02T10:00:29Z,apache-2.0
+433,foundation/foundation-sites,29352,5631,29352,42,,HTML,2011-10-13T23:05:42Z,2022-12-02T05:13:49Z,mit
+434,sorrycc/awesome-javascript,29292,4120,29292,36,,,2014-07-01T15:59:02Z,2022-12-02T07:45:03Z,
+435,denysdovhan/wtfjs,29245,2137,29245,23,"book, handbook, javascript, js, learning, notes, specification, wtf",JavaScript,2017-07-14T15:42:12Z,2022-12-02T08:01:27Z,wtfpl
+436,beego/beego,29176,5548,29176,32,"beego, go",Go,2012-02-29T02:32:08Z,2022-12-02T09:50:08Z,other
+437,CSSEGISandData/COVID-19,29158,18738,29158,1953,"2019-ncov, coronavirus, covid-19, csse, engineering, jhu, johns-hopkins-university, systems-science",,2020-02-04T22:03:53Z,2022-12-02T07:02:56Z,
+438,openai/gym,29116,8072,29116,32,,Python,2016-04-27T14:59:16Z,2022-12-02T08:05:32Z,other
+439,ariya/phantomjs,29079,5845,29079,11,"automation, headless, headless-browser, phantomjs",C++,2010-12-27T08:18:58Z,2022-11-30T18:51:25Z,bsd-3-clause
+440,lukehoban/es6features,29067,2918,29067,39,,,2014-03-03T18:29:30Z,2022-12-01T13:07:14Z,mit
+441,vim/vim,29023,4482,29023,1341,"c, cross-platform, text-editor, vim",Vim Script,2015-08-18T21:03:56Z,2022-12-02T09:18:42Z,vim
+442,carbon-language/carbon-lang,28897,1211,28897,181,"carbon-lang, compiler, cpp, experimental, experimental-language, language, programming-language",C++,2020-04-27T21:45:16Z,2022-12-02T09:54:34Z,other
+443,react-boilerplate/react-boilerplate,28864,6141,28864,101,"i18n, immer, offline-first, react, react-boilerplate, redux, redux-saga, scaffolding, styled-components, webpack4",JavaScript,2015-02-18T14:36:32Z,2022-12-02T04:01:29Z,mit
+444,rapid7/metasploit-framework,28840,12711,28840,543,hacktoberfest,Ruby,2011-08-30T06:13:20Z,2022-12-02T09:01:06Z,other
+445,hasura/graphql-engine,28772,2535,28772,2068,"access-control, api, automatic-api, bigquery, graphql, graphql-api, graphql-server, haskell, hasura, mysql, postgres, rest-api, sql-server",TypeScript,2018-06-18T07:57:36Z,2022-12-02T08:25:00Z,apache-2.0
+446,naptha/tesseract.js,28770,1937,28770,39,"deep-learning, javascript, ocr, tesseract, webassembly",JavaScript,2015-06-24T02:49:52Z,2022-12-02T03:50:15Z,apache-2.0
+447,markedjs/marked,28718,3270,28718,40,"commonmark, compiler, gfm, hacktoberfest, markdown, parser",JavaScript,2011-07-24T13:15:51Z,2022-12-02T03:56:34Z,other
+448,atlassian/react-beautiful-dnd,28704,2273,28704,557,"dnd, drag, drag-and-drop, react, reordering, sortable",JavaScript,2017-08-09T03:37:15Z,2022-12-02T08:40:17Z,other
+449,mqyqingfeng/Blog,28575,4576,28575,214,"advanced, blog, javascript",,2017-03-13T10:04:33Z,2022-12-02T10:01:59Z,
+450,halfrost/LeetCode-Go,28569,5170,28569,12,"acm-icpc, algo, algorithm, algorithm-competitions, algorithms, algorithms-and-data-structures, dynamic-programming, facebook, go, golang, interview-questions, leetcode, leetcode-go, leetcode-golang, leetcode-solutions, math, pattern",Go,2017-07-18T00:06:14Z,2022-12-02T09:55:24Z,mit
+451,alibaba/p3c,28527,7826,28527,137,,Kotlin,2017-06-23T06:15:51Z,2022-12-02T09:20:08Z,apache-2.0
+452,mathiasbynens/dotfiles,28511,8824,28511,183,"bash, dotfiles, macos",Shell,2011-09-05T18:07:54Z,2022-12-02T07:29:26Z,mit
+453,google/googletest,28507,8967,28507,283,,C++,2015-07-28T15:07:53Z,2022-12-02T10:04:33Z,bsd-3-clause
+454,laravel/framework,28399,9709,28399,11,"framework, laravel, php",PHP,2013-01-10T21:27:28Z,2022-12-02T09:24:36Z,mit
+455,ruanyf/weekly,28397,2082,28397,2134,,,2018-10-13T12:36:07Z,2022-12-02T09:28:48Z,
+456,apache/airflow,28328,11609,28328,858,"airflow, apache, apache-airflow, hacktoberfest, python, scheduler, workflow",Python,2015-04-13T18:04:58Z,2022-12-02T09:34:56Z,apache-2.0
+457,aria2/aria2,28312,3144,28312,968,"bittorrent, cpp11, download, ftp, http, metalink, rpc, sftp",C++,2010-11-27T09:41:48Z,2022-12-02T09:05:07Z,gpl-2.0
+458,ityouknow/spring-boot-examples,28262,12123,28262,12,"docker, docker-composer, fastdfs, java, mongodb, mybatis, rabbitmq, scheduler, spring, spring-boot, spring-boot-examples, spring-boot-mail, spring-boot-mongodb, spring-boot-upload-file, spring-cloud, spring-data-jpa, springboot, springboot-shiro, springcloud, thymeleaf",Java,2016-11-05T05:32:33Z,2022-12-02T03:40:21Z,
+459,type-challenges/type-challenges,28247,2772,28247,17819,"challenges, type, type-system, typescript",TypeScript,2020-07-23T14:33:11Z,2022-12-02T10:02:45Z,mit
+460,typicode/husky,28235,994,28235,23,"commit, git, hooks, pre-commit",JavaScript,2014-06-23T12:14:21Z,2022-12-02T09:27:53Z,mit
+461,elsewhencode/project-guidelines,28163,3208,28163,13,"best-practices, guidelines, how-to, javascript, javascript-best-practices, maintainability",JavaScript,2017-06-30T10:17:55Z,2022-12-02T03:26:12Z,mit
+462,amix/vimrc,28154,7086,28154,5,,Vim Script,2012-05-29T16:19:29Z,2022-12-02T07:54:36Z,mit
+463,xkcoding/spring-boot-demo,28140,9818,28140,109,"demo, in-action, java, spring, spring-boot, spring-boot-2, spring-boot-demo, web, xkcoding",Java,2017-11-10T06:27:29Z,2022-12-02T05:34:32Z,mit
+464,shengxinjing/programmer-job-blacklist,28076,1871,28076,158,,Shell,2016-06-25T06:09:10Z,2022-12-02T09:59:30Z,mit
+465,ReactiveX/rxjs,28059,2891,28059,280,"javascript, rxjs",TypeScript,2015-03-15T06:17:10Z,2022-12-01T16:03:50Z,apache-2.0
+466,square/leakcanary,28055,3919,28055,63,"android, java, kotlin, kotlin-android, leak-canary, leak-trace, leakcanary, memory-leak, outofmemory, outofmemoryerror",Kotlin,2015-04-29T23:54:16Z,2022-12-02T07:09:18Z,apache-2.0
+467,tastejs/todomvc,28029,13918,28029,192,,JavaScript,2011-06-03T19:56:33Z,2022-12-01T14:17:59Z,other
+468,aosabook/500lines,27974,5922,27974,59,,JavaScript,2013-11-04T02:02:53Z,2022-12-02T07:26:06Z,other
+469,codepath/android_guides,27964,6470,27964,159,"android, codepath, development, guides, tutorials",,2013-06-19T10:24:45Z,2022-12-02T07:42:37Z,mit
+470,jashkenas/backbone,27947,5567,27947,70,,JavaScript,2010-09-30T19:41:28Z,2022-12-02T08:02:23Z,mit
+471,docker/compose,27903,4645,27903,303,"docker, docker-compose, go, golang, orchestration",Go,2013-12-09T11:40:58Z,2022-12-02T09:42:48Z,apache-2.0
+472,vuejs/vuex,27902,9546,27902,119,"javascript, state-management, time-travel, vue, vuex",JavaScript,2015-07-16T04:21:26Z,2022-12-01T22:15:46Z,mit
+473,bannedbook/fanqiang,27875,5919,27875,268,"brook, daze, fanqiang, goflyway, lightsocks, proxy, psiphon, shadowsocks, ssr, trojan, v2ray",Kotlin,2015-01-14T00:34:25Z,2022-12-02T09:55:31Z,
+474,lib-pku/libpku,27853,8055,27853,14,,TeX,2018-11-22T13:33:06Z,2022-12-02T07:31:19Z,
+475,airbnb/lottie-web,27785,2763,27785,725,,JavaScript,2015-02-20T21:02:59Z,2022-12-02T08:24:08Z,mit
+476,ziadoz/awesome-php,27777,5007,27777,100,"awesome, awesome-lists, php, php-applications, php-framework, php-installation, php-library, php7",,2013-11-26T03:14:19Z,2022-12-02T08:44:06Z,wtfpl
+477,kenwheeler/slick,27755,5952,27755,1357,,JavaScript,2014-03-24T02:10:05Z,2022-12-02T06:33:14Z,mit
+478,IanLunn/Hover,27746,5775,27746,40,"css, css-effects, sass",SCSS,2014-01-02T14:27:35Z,2022-12-02T09:54:45Z,other
+479,caolan/async,27742,2457,27742,18,"async, callbacks, javascript",JavaScript,2010-06-01T21:01:30Z,2022-12-02T08:43:52Z,mit
+480,standard/standard,27710,2340,27710,94,"development, ecmascript, es6, eslint, javascript, linter, nodejs, standard, static-code-analysis, style-guide",JavaScript,2015-01-27T01:23:31Z,2022-12-02T09:56:14Z,mit
+481,symfony/symfony,27683,8900,27683,746,"bundle, framework, hacktoberfest, php, php-framework, symfony, symfony-bundle",PHP,2010-01-04T14:21:21Z,2022-12-02T07:05:10Z,mit
+482,curl/curl,27603,5428,27603,66,"c, client, curl, ftp, gopher, hacktoberfest, http, https, imaps, ldap, libcurl, library, mqtt, pop3, scp, sftp, transfer-data, transferring-data, user-agent",C,2010-03-18T22:32:22Z,2022-12-02T09:39:57Z,other
+483,hankcs/HanLP,27574,7634,27574,9,"dependency-parser, hanlp, named-entity-recognition, natural-language-processing, nlp, pos-tagging, semantic-parsing, text-classification",Python,2014-10-09T06:36:16Z,2022-12-02T08:25:34Z,apache-2.0
+484,appwrite/appwrite,27560,2274,27560,739,"android, apple, appwrite, baas, backend, backend-as-a-service, docker, firebase, flutter, hacktoberfest, ios, javascript, self-hosted, selfhosted, serverless, swift, tools, web",TypeScript,2019-04-08T16:36:25Z,2022-12-02T10:02:03Z,bsd-3-clause
+485,apolloconfig/apollo,27542,10031,27542,119,"config-management, configuration-management, distributed-configuration, microservices, spring-boot, spring-cloud",Java,2016-03-04T10:24:23Z,2022-12-02T06:15:20Z,apache-2.0
+486,0xAX/linux-insides,27490,3111,27490,24,"linux, linux-insides, linux-kernel",Python,2015-01-03T18:44:57Z,2022-12-02T09:03:42Z,other
+487,prisma/prisma,27316,971,27316,2400,"cockroachdb, database, javascript, mariadb, mongo, mongodb, mongodb-orm, mssql, mysql, nodejs, orm, postgres, postgresql, prisma, prisma-client, query-builder, sql-server, sqlite, sqlserver, typescript",TypeScript,2019-06-20T13:33:47Z,2022-12-02T09:42:13Z,apache-2.0
+488,mingrammer/diagrams,27289,1667,27289,298,"architecture, diagram, diagram-as-code, graphviz",Python,2020-02-02T15:23:24Z,2022-12-02T09:36:30Z,mit
+489,odoo/odoo,27275,17425,27275,5999,"apps, business, erp, management, odoo, odoo-apps, python",JavaScript,2014-05-13T15:38:58Z,2022-12-02T09:43:51Z,other
+490,webtorrent/webtorrent,27244,2638,27244,109,"bittorrent, browser, hacktoberfest, javascript, nodejs, p2p, streaming, torrent, webrtc, webtorrent",JavaScript,2013-10-15T08:16:40Z,2022-12-02T07:11:28Z,mit
+491,Homebrew/legacy-homebrew,27197,11730,27197,0,,,2009-05-20T19:38:37Z,2022-11-28T21:43:30Z,
+492,niklasvh/html2canvas,27174,4519,27174,854,"dom, javascript, screenshot",TypeScript,2011-07-16T01:05:58Z,2022-12-02T10:00:32Z,mit
+493,kodecocodes/swift-algorithm-club,27146,4870,27146,56,"algorithms, data-structures, swift",Swift,2016-01-26T17:56:12Z,2022-12-02T09:16:35Z,mit
+494,sequelize/sequelize,27128,4129,27128,816,"db2-ibm-i, feature-rich, javascript, mariadb, microsoft-sql-server, mssql, mssql-server, mysql, nodejs, oracle-db, orm, postgresql, sequelize, snowflakedb, sql, sqlite, transactions, typescript",JavaScript,2010-07-22T07:11:11Z,2022-12-02T08:59:09Z,mit
+495,composer/composer,27122,6487,27122,128,"composer, dependency-manager, hacktoberfest, package-manager, packages, php",PHP,2011-06-08T08:53:00Z,2022-12-02T07:05:23Z,mit
+496,jgm/pandoc,27102,3026,27102,884,"commonmark, converter, document, haskell, markdown, markup, pandoc, presentation, publishing",Haskell,2010-03-20T20:34:23Z,2022-12-02T09:38:33Z,other
+497,tmux/tmux,27023,1829,27023,19,,C,2015-06-03T23:32:55Z,2022-12-02T09:18:41Z,other
+498,PaddlePaddle/PaddleOCR,26997,5517,26997,1315,"chineseocr, crnn, db, ocr, ocrlite",Python,2020-05-08T10:38:16Z,2022-12-02T09:14:32Z,apache-2.0
+499,postcss/postcss,26946,1555,26946,19,"ast, css, framework, parser, postcss",TypeScript,2013-09-24T23:06:48Z,2022-12-02T09:52:21Z,mit
